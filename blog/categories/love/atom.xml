@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Love Story]]></title>
-  <link href="http://lovexinxin.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: love | Love Story]]></title>
+  <link href="http://lovexinxin.github.io/blog/categories/love/atom.xml" rel="self"/>
   <link href="http://lovexinxin.github.io/"/>
   <updated>2014-05-26T00:58:37-04:00</updated>
   <id>http://lovexinxin.github.io/</id>
