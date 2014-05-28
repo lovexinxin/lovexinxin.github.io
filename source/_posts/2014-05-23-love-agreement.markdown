@@ -30,3 +30,6 @@ categories: love
 * 不可以让自己太累，要慢慢学会偷懒学会放松
 * 不可以没事胡思乱想，担心这个担心那个搞的自己精神紧张睡觉都睡不好
 * 身体第一位，如果身体有任何不好状态，什么减肥呀学习呀之类的再议把身体养好为主
+---
+
+_Absence to love is what wind is to fire. It extinguishes the small; it inflames the great._
