@@ -4,7 +4,7 @@
   <title><![CDATA[Love Story]]></title>
   <link href="http://lovexinxin.github.io/atom.xml" rel="self"/>
   <link href="http://lovexinxin.github.io/"/>
-  <updated>2014-05-29T00:57:35-04:00</updated>
+  <updated>2014-05-29T01:01:44-04:00</updated>
   <id>http://lovexinxin.github.io/</id>
   <author>
     <name><![CDATA[Doudou & Xinxin]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Unofficial Honeymoon]]></title>
+    <link href="http://lovexinxin.github.io/blog/2014/05/29/unofficial-honeymoon/"/>
+    <updated>2014-05-29T01:00:40-04:00</updated>
+    <id>http://lovexinxin.github.io/blog/2014/05/29/unofficial-honeymoon</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Love Agreement]]></title>
