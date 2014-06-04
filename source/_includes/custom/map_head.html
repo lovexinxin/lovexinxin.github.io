@@ -1,15 +1,12 @@
-<script type="text/javascript" src="/javascripts/maplace.min.js"></script>
 
 <script language="Javascript" type="text/javascript">
-$(function() {
-  new Maplace({
-  show_markers: false,
-  locations: [{
-    lat: 45.9, 
-    lon: 10.9,
-    zoom: 8
-  }],
-  controls_on_map: false
-}).Load(); 
-});
+    var map;
+    $(document).ready(function(){
+      prettyPrint();
+      map = new GMaps({
+        div: '#gmap',
+        lat: -12.043333,
+        lng: -77.028333
+      });
+    });
 </script>
