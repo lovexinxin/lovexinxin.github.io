@@ -74,3 +74,6 @@ categories: accounting love
 - [Youtube Audit Tutorial](https://www.youtube.com/watch?v=cs07f0ERs_E) (Install 红杏_2.2.6.crx in the folder I share with you into Chrome.)
 - [Youtube 刘伟教Excel函数和公式](https://www.youtube.com/channel/UCggejFPf1vJakXQQAsS87WQ)  
 ![alt text](/images/IMG_4564.JPG "Accounting In USA")
+
+---
+_If you love a girl, it's better to fight for her happiness than to abandon her for the sake of her happiness._
