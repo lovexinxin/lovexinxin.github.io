@@ -66,7 +66,7 @@ categories: accounting love
 - Preparation of Bank Reconciliation Statement, Stock Statement,
 
 ## Study Resources
-- [我的百度云盘（Continuing adding...）](http://pan.baidu.com/s/1gd1OKHt)密码: 24a4
+- [我的百度云盘（Continue adding...）](http://pan.baidu.com/s/1gd1OKHt)密码: 24a4
 - [#1 Excel Tutorial](http://www.excel-easy.com/examples/formula-auditing.html)
 - [Audit Excel](http://www.auditexcel.co.za/video-tutorials/)  
 - [王佩丰-Excel 2010系列视频教程](http://edu.51cto.com/course/course_id-750.html)
