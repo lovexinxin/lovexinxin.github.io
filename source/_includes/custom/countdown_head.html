@@ -1,18 +1,23 @@
 <script language="Javascript" type="text/javascript">
-		var clock;
-
-		$(document).ready(function() {
 			var clock;
 
-			clock = $('.clock').FlipClock(10, {
-		        clockFace: 'MinuteCounter',
-		        countdown: true,
-		        callbacks: {
-		        	stop: function() {
-		        		$('.message').html('The clock has stopped!')
-		        	}
-		        }
-		    });
+			$(document).ready(function() {
 
-		});
+				// Grab the current date
+				var currentDate = new Date();
+
+				// Set some date in the future. In this case, it's always Jan 1
+				// var futureDate  = new Date(currentDate.getFullYear() + 1, 0, 1);
+				var futureDate = new Date("2014/08/18 22:30:00")
+
+				// Calculate the difference in seconds between the future and current date
+				var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
+
+				// Instantiate a coutdown FlipClock
+				clock = $('.clock').FlipClock(diff, {
+					clockFace: 'DailyCounter',
+					countdown: true,
+					showSeconds: false
+				});
+			});
 </script>
