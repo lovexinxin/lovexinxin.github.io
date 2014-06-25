@@ -18,6 +18,7 @@
 	<link href="/favicon.png" rel="shortcut icon">
 	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 	<link href="/stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="/stylesheets/flipclock.css" rel="stylesheet" type="text/css">
 	<link href="/stylesheets/app.css" rel="stylesheet" type="text/css">
 	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<!-- // <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
@@ -25,6 +26,7 @@
 	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 	<script type="text/javascript" src="/javascripts/gmaps.js"></script>
 	<script type="text/javascript" scr="/javascripts/prettify.js"></script>
+	<script type="text/javascript" scr="/javascripts/flipclock.min.js"></script>
 
 	<script type="text/javascript" src="/javascripts/jquery.fancybox.pack.js"></script>
 
@@ -37,7 +39,7 @@ $(document).ready(
       });
       $(".fancybox").fancybox({
         beforeLoad: function() {
-          var el,
+          var el, 
               id = $(this.element).data('title-id');
 
           if (id) {
@@ -62,8 +64,8 @@ $(document).ready(
 );
 </script>
 
-
-
+	
+	
 <script language="Javascript" type="text/javascript">
     var map;
     $(document).ready(function(){
@@ -73,6 +75,25 @@ $(document).ready(
         lng: -77.028333
       });
     });
+</script>
+
+	<script language="Javascript" type="text/javascript">
+		var clock;
+
+		$(document).ready(function() {
+			var clock;
+
+			clock = $('.clock').FlipClock(10, {
+		        clockFace: 'MinuteCounter',
+		        countdown: true,
+		        callbacks: {
+		        	stop: function() {
+		        		$('.message').html('The clock has stopped!')
+		        	}
+		        }
+		    });
+
+		});
 </script>
 
 </head>
@@ -213,11 +234,11 @@ $(document).ready(
 
 
 
-
+  
 
 
 <time datetime="2014-06-24T01:20:04-04:00" pubdate data-updated="true">Jun 24<span>th</span>, 2014</time></div>
-
+	
 
 <div class="tags">
 
@@ -226,16 +247,16 @@ $(document).ready(
 </div>
 
 
-
+	
 </div></article>
 
 	<div class="share">
 	<div class="addthis_toolbox addthis_default_style ">
-
-
+	
+	
 	<a class="addthis_button_tweet"></a>
-
-
+	
+	
 <!---	<a class="addthis_counter addthis_pill_style"></a> --->
 	</div>
   <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>

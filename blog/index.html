@@ -9,7 +9,7 @@
 
 <meta name="author" content="Doudou & Xinxin">
 
-<meta name="description" content="Auditing Assistant Requirement Career Summary Provide significant help and support to senior professionals to review a corporation&rsquo;s internal &hellip;"> <meta name="keywords" content="">
+<meta name="description" content=" Tick tick &hellip; 希望我们能努力跑赢这个倒计时牌，能够坚持下来，坚持到我们的“Unofficial Honeymoon”&hellip; Jun 25th, 2014 "> <meta name="keywords" content="">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -18,6 +18,7 @@
 	<link href="/favicon.png" rel="shortcut icon">
 	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 	<link href="/stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="/stylesheets/flipclock.css" rel="stylesheet" type="text/css">
 	<link href="/stylesheets/app.css" rel="stylesheet" type="text/css">
 	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<!-- // <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
@@ -25,6 +26,7 @@
 	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 	<script type="text/javascript" src="/javascripts/gmaps.js"></script>
 	<script type="text/javascript" scr="/javascripts/prettify.js"></script>
+	<script type="text/javascript" scr="/javascripts/flipclock.min.js"></script>
 
 	<script type="text/javascript" src="/javascripts/jquery.fancybox.pack.js"></script>
 
@@ -75,6 +77,25 @@ $(document).ready(
     });
 </script>
 
+	<script language="Javascript" type="text/javascript">
+		var clock;
+
+		$(document).ready(function() {
+			var clock;
+
+			clock = $('.clock').FlipClock(10, {
+		        clockFace: 'MinuteCounter',
+		        countdown: true,
+		        callbacks: {
+		        	stop: function() {
+		        		$('.message').html('The clock has stopped!')
+		        	}
+		        }
+		    });
+
+		});
+</script>
+
 </head>
 
 
@@ -115,6 +136,47 @@ $(document).ready(
 </header>
 
 	<div id="content" class="inner">
+
+
+    <article class="post">
+	<h2 class="title">
+		
+		<a href="/blog/2014/06/25/count-down/">
+		
+			Count Down</a>
+	</h2>
+	<div class="entry-content">
+		<h1>Tick tick &hellip;</h1>
+
+<p>希望我们能努力跑赢这个倒计时牌，能够坚持下来，坚持到我们的“Unofficial Honeymoon”&hellip;</p>
+
+<div class="clock" style="margin:2em;"></div>
+
+
+		
+		
+	</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-06-25T00:45:05-04:00" pubdate data-updated="true">Jun 25<span>th</span>, 2014</time></div>
+	
+
+
+	
+</div></article>
 
 
     <article class="post">
@@ -195,7 +257,7 @@ $(document).ready(
 <h2>Study Resources</h2>
 
 <ul>
-<li><a href="http://pan.baidu.com/s/1gd1OKHt">我的百度云盘（Continuing adding&hellip;）</a>密码: 24a4</li>
+<li><a href="http://pan.baidu.com/s/1gd1OKHt">我的百度云盘（Continue adding&hellip;）</a>密码: 24a4</li>
 <li><a href="http://www.excel-easy.com/examples/formula-auditing.html">#1 Excel Tutorial</a></li>
 <li><a href="http://www.auditexcel.co.za/video-tutorials/">Audit Excel</a></li>
 <li><a href="http://edu.51cto.com/course/course_id-750.html">王佩丰-Excel 2010系列视频教程</a></li>

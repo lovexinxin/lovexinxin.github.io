@@ -4,7 +4,7 @@
   <title><![CDATA[Love Story]]></title>
   <link href="http://lovexinxin.github.io/atom.xml" rel="self"/>
   <link href="http://lovexinxin.github.io/"/>
-  <updated>2014-06-24T13:40:05-04:00</updated>
+  <updated>2014-06-25T00:52:30-04:00</updated>
   <id>http://lovexinxin.github.io/</id>
   <author>
     <name><![CDATA[Doudou & Xinxin]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Count Down]]></title>
+    <link href="http://lovexinxin.github.io/blog/2014/06/25/count-down/"/>
+    <updated>2014-06-25T00:45:05-04:00</updated>
+    <id>http://lovexinxin.github.io/blog/2014/06/25/count-down</id>
+    <content type="html"><![CDATA[<h1>Tick tick &hellip;</h1>
+
+<p>希望我们能努力跑赢这个倒计时牌，能够坚持下来，坚持到我们的“Unofficial Honeymoon”&hellip;</p>
+
+<div class="clock" style="margin:2em;"></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Accounting Resources]]></title>
@@ -88,7 +102,7 @@
 <h2>Study Resources</h2>
 
 <ul>
-<li><a href="http://pan.baidu.com/s/1gd1OKHt">我的百度云盘（Continuing adding&hellip;）</a>密码: 24a4</li>
+<li><a href="http://pan.baidu.com/s/1gd1OKHt">我的百度云盘（Continue adding&hellip;）</a>密码: 24a4</li>
 <li><a href="http://www.excel-easy.com/examples/formula-auditing.html">#1 Excel Tutorial</a></li>
 <li><a href="http://www.auditexcel.co.za/video-tutorials/">Audit Excel</a></li>
 <li><a href="http://edu.51cto.com/course/course_id-750.html">王佩丰-Excel 2010系列视频教程</a></li>
