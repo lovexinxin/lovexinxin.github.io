@@ -160,11 +160,11 @@ Fly back to Boston~ Honeymoon is over, T^T
 
 ### Silk Road Garden(新疆菜):
 18920 Gale Ave, Rowland Heights, CA 91748   
-- [Apple Map](http://maps.apple.com/?q=33.9958997,-117.8900427)   
+- [Apple Map](http://maps.apple.com/?q=33.9958997,-117.8900427)  
 - [Google Map](comgooglemaps://?q=33.9958997,-117.8900427&zoom=14&views=traffic)  
 
 ### 东坡扣肉:
-10250 Santa Monica Blvd,Ste200A,LA,CA90067    
+10250 Santa Monica Blvd,Ste200A,LA,CA90067   
 - [Apple Map](http://maps.apple.com/?q=34.057963,-118.419078)    
 - [Google Map](comgooglemaps://?q=34.057963,-118.419078&zoom=14&views=traffic)  
 
