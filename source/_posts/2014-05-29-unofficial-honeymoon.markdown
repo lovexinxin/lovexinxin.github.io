@@ -63,7 +63,8 @@ OK, 小心心今天负责坐车啦～The Getty Villa(豪宅，提前预约), 启
   - [Google Map](comgooglemaps://?q=37.826978,-122.422956&zoom=14&views=traffic)  
 
 # 8.23
-**Take Cable Car!!**
+**Take Cable Car!!**   
+
 - 九曲花街: Lombard St, San Francisco, CA 94133
   - [Apple Map](http://maps.apple.com/?q=37.802139,-122.41874)
   - [Google Map](comgooglemaps://?q=37.802139,-122.41874&zoom=14&views=traffic)
@@ -153,56 +154,139 @@ Fly back to Boston~ Honeymoon is over, T^T
 # Food:
 ## Los Angeles
 ### Bottega Louie（甜品）:
-700 S Grand Ave, Los Angeles, CA 90017: 33.9748936,-118.2951354
+700 S Grand Ave, Los Angeles, CA 90017
+  - [Apple Map](http://maps.apple.com/?q=33.9748936,-118.2951354)
+  - [Google Map](comgooglemaps://?q=33.9748936,-118.2951354&zoom=14&views=traffic)  
+
 ### Silk Road Garden(新疆菜):
-18920 Gale Ave, Rowland Heights, CA 91748: 33.9958997,-117.8900427
+18920 Gale Ave, Rowland Heights, CA 91748
+  - [Apple Map](http://maps.apple.com/?q=33.9958997,-117.8900427)
+  - [Google Map](comgooglemaps://?q=33.9958997,-117.8900427&zoom=14&views=traffic)  
+
 ### 东坡扣肉:
-10250 Santa Monica Blvd,Ste200A,LA,CA90067: 34.057963,-118.419078
+10250 Santa Monica Blvd,Ste200A,LA,CA90067
+  - [Apple Map](http://maps.apple.com/?q=34.057963,-118.419078)
+  - [Google Map](comgooglemaps://?q=34.057963,-118.419078&zoom=14&views=traffic)  
+
 ### 滋味成都(比较偏远):
-828 W Valley Blvd, Alhambra, CA 91803: 34.077724,-118.132434
+828 W Valley Blvd, Alhambra, CA 91803
+  - [Apple Map](http://maps.apple.com/?q=34.077724,-118.132434)
+  - [Google Map](comgooglemaps://?q=34.077724,-118.132434&zoom=14&views=traffic)  
+
 ### Mountain Cafe:
-3064 W 8th St, Los Angeles, CA 90005: 34.0577265,-118.2937553
+3064 W 8th St, Los Angeles, CA 90005
+  - [Apple Map](http://maps.apple.com/?q=34.0577265,-118.2937553)
+  - [Google Map](comgooglemaps://?q=34.0577265,-118.2937553&zoom=14&views=traffic)  
+
 ### Demitasse (热巧，coffee):
-135 S San Pedro St, Los Angeles, CA 90012: 34.049774,-118.24171
-### Yu Chun Chic Naeng Myun（韩国--冷面）: 
-3185 W Olympic Blvd, Los Angeles, CA 90006: 34.0528831,-118.3058503
+135 S San Pedro St, Los Angeles, CA 90012
+  - [Apple Map](http://maps.apple.com/?q=34.049774,-118.24171)
+  - [Google Map](comgooglemaps://?q=34.049774,-118.24171&zoom=14&views=traffic)  
+
+### Yu Chun Chic Naeng Myun（韩国--冷面): 
+3185 W Olympic Blvd, Los Angeles, CA 90006
+  - [Apple Map](http://maps.apple.com/?q=34.0528831,-118.3058503)
+  - [Google Map](comgooglemaps://?q=34.0528831,-118.3058503&zoom=14&views=traffic)  
+
 ### The Lobster:
-1602 Ocean Ave. Santa Monica, CA 90401: 34.0109895,-118.495053
+1602 Ocean Ave. Santa Monica, CA 90401
+  - [Apple Map](http://maps.apple.com/?q=34.0109895,-118.495053)
+  - [Google Map](comgooglemaps://?q=34.0109895,-118.495053&zoom=14&views=traffic)  
+
 ### Chinese Baked Goods at Kee Wah Bakery(比较偏远):
-150 W Valley Blvd, San Gabriel, CA 91776: 34.0862281,-118.0310628
+150 W Valley Blvd, San Gabriel, CA 91776
+  - [Apple Map](http://maps.apple.com/?q=34.0862281,-118.0310628)
+  - [Google Map](comgooglemaps://?q=34.0862281,-118.0310628&zoom=14&views=traffic)  
+
 ### Oldest MacDonald(比较偏远)
-10207 Lakewood Boulevard, Downey, CA: 33.929162,-118.1064239
+10207 Lakewood Boulevard, Downey, CA
+  - [Apple Map](http://maps.apple.com/?q=33.929162,-118.1064239)
+  - [Google Map](comgooglemaps://?q=33.929162,-118.1064239&zoom=14&views=traffic)  
+
 ## San Francisco
+### Scoma’s Restaurant
+
 ### Caffe Trieste(coffee, groupon):
 Best Coffee 
-601 Vallejo St, San Francisco, CA 94133: 37.798631,-122.40737
+601 Vallejo St, San Francisco, CA 94133
+  - [Apple Map](http://maps.apple.com/?q=37.798631,-122.40737)
+  - [Google Map](comgooglemaps://?q=37.798631,-122.40737&zoom=14&views=traffic)  
+
 ### Hawgs Seafood Bar (Groupon, 离硅谷近):
 hawgs newhattan clam chowder && Steam combination
-1700 W Campbell Ave, Campbell, CA 95008: 37.285498,-121.979778
+1700 W Campbell Ave, Campbell, CA 95008
+  - [Apple Map](http://maps.apple.com/?q=37.285498,-121.979778)
+  - [Google Map](comgooglemaps://?q=37.285498,-121.979778&zoom=14&views=traffic)  
+
 ### Ringer Hut (日式拉面, 离硅谷近):
-1072 Saratoga Ave，San Jose, CA 95129: 37.2966813,-121.9193221
+1072 Saratoga Ave，San Jose, CA 95129
+  - [Apple Map](http://maps.apple.com/?q=37.2966813,-121.9193221)
+  - [Google Map](comgooglemaps://?q=37.2966813,-121.9193221&zoom=14&views=traffic)  
+
 ### Kaya BBQ & Tofu:
-39 El Camino Real, San Carlos, CA 94070: 37.512839,-122.266526
+39 El Camino Real, San Carlos, CA 94070
+  - [Apple Map](http://maps.apple.com/?q=37.512839,-122.266526)
+  - [Google Map](comgooglemaps://?q=37.512839,-122.266526&zoom=14&views=traffic)  
+
 ### Ace King (夜宵):
 Newark Tea Station
 ### 川菜：
-726 Clement St, San Francisco, CA 94118: 37.7830291,-122.4671381
+726 Clement St, San Francisco, CA 94118
+  - [Apple Map](http://maps.apple.com/?q=37.7830291,-122.4671381)
+  - [Google Map](comgooglemaps://?q=37.7830291,-122.4671381&zoom=14&views=traffic)  
+
 ### 3 Potato 4(Fast food)
-1051 Market St, San Francisco, CA 94103: 37.781091,-122.411125
+1051 Market St, San Francisco, CA 94103
+  - [Apple Map](http://maps.apple.com/?q=37.781091,-122.411125)
+  - [Google Map](comgooglemaps://?q=37.781091,-122.411125&zoom=14&views=traffic)  
+
 ### La Boulange(Bakery, Brunch)
-781 Mission St, San Francisco, CA 94103: 37.781091,-122.411125
+781 Mission St, San Francisco, CA 94103
+  - [Apple Map](http://maps.apple.com/?q=37.781091,-122.411125)
+  - [Google Map](comgooglemaps://?q=37.781091,-122.411125&zoom=14&views=traffic)  
+
 ## San Diego
 ### Hash House A Go Go (Breakfast加州最好):
-3628 5th Ave, San Diego, CA 92103: 32.7439003,-117.1606972
+3628 5th Ave, San Diego, CA 92103
+  - [Apple Map](http://maps.apple.com/?q=32.7439003,-117.1606972)
+  - [Google Map](comgooglemaps://?q=32.7439003,-117.1606972&zoom=14&views=traffic)  
+
 ### Phil's BBQ(中午去人少): 
-3750 Sports Arena Blvd, San Diego, CA 92110: 32.7550442,-117.2158329
+3750 Sports Arena Blvd, San Diego, CA 92110
+  - [Apple Map](http://maps.apple.com/?q=32.7550442,-117.2158329)
+  - [Google Map](comgooglemaps://?q=32.7550442,-117.2158329&zoom=14&views=traffic)  
+
 ### Crab Hut (螃蟹！):
-4646 Convoy St, Ste 106A, San Diego, CA 92111: 32.8249211,-117.1556959
+4646 Convoy St, Ste 106A, San Diego, CA 92111
+  - [Apple Map](http://maps.apple.com/?q=32.8249211,-117.1556959)
+  - [Google Map](comgooglemaps://?q=32.8249211,-117.1556959&zoom=14&views=traffic)  
+
+### Santa Barbara Shellfish Co.
+
 ## Route 1:
 ### sister kitchen，thai food
+245 W Grand Ave, Grover Beach, CA 93433
+  - [Apple Map](http://maps.apple.com/?q=35.0799242,-119.3520163)
+  - [Google Map](comgooglemaps://?q=35.0799242,-119.3520163&zoom=14&views=traffic)  
+
+### Bear Flag Fish Company
+
+### Arch Rock Fish
+
+### Paul's Pancake House
+
+### Lucia Lodge
+
+### Porta Bella
+
+### Dametra Café
+SE corner of Ocean & Lincoln, Carmel by the Sea, CA 93921
+
 ## Others:
-### HIT The Spot (boiling point in LA) close to SF?
-228 Barber Ct,Milpitas, CA 95035
+### HIT The Spot (boiling point in LA 较远)
+228 Barber Ct, Milpitas, CA 95035
+  - [Apple Map](http://maps.apple.com/?q=37.4237587,-121.9191267)
+  - [Google Map](comgooglemaps://?q=37.4237587,-121.9191267&zoom=14&views=traffic)  
 
 # Other Places:
 - Pepperdine University (40min from LA) Most Beautiful University
@@ -212,3 +296,6 @@ Newark Tea Station
 - The Huntington Library, Art Collections, and Botanical Gardens: 1151 Oxford Rd, San Marino, CA
 - Pigeon Point Lighthouse(1h from SF): 210 Pigeon Point Rd., Pescadero, CA
 - Newport Beach (1h from SD)
+- Malibu
+- Huntington Beach 
+- MONTEREY
