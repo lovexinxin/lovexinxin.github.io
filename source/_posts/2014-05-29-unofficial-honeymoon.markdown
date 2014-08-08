@@ -264,7 +264,7 @@ Newark Tea Station
 ### Santa Barbara Shellfish Co.
 
 ## Route 1:
-### sister kitchen，thai food
+### Sister Kitchen，Thai Food
 245 W Grand Ave, Grover Beach, CA 93433    
 - [Apple Map](http://maps.apple.com/?q=35.0799242,-119.3520163)   
 - [Google Map](comgooglemaps://?q=35.0799242,-119.3520163&zoom=14&views=traffic)  
