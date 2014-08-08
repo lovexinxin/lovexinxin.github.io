@@ -9,10 +9,11 @@ categories: love trip
 回宾馆睡觉觉
 
 # 8.19
-上午好好休息一下，中午吃完饭，下午，LA市内玩:
 - Staples Center: 1111 S Figueroa St, Los Angeles, CA 90015  
+<a href="http://maps.apple.com/?q=51.507269,-0.127695">http://maps.apple.com/?q=51.507269,-0.127695</a>
   - [Apple Map](http://maps.apple.com/?q=34.043018,-118.267254)  
   - [Google Map](comgooglemaps://?q=34.043018,-118.267254&zoom=14&views=traffic)
+
 - Walk of Fame (7018 Hollywood Blvd, Los Angeles, CA 90028: 34.0937508,-118.3264781)
 - 比弗利山庄，日落大道（Sunset Boulevard, Los Angeles, CA: 34.0808211,-118.412875）
 - 晚上griffith observatory看LA夜景(2800 E Observatory Rd, Los Angeles, CA 90027: 34.0952934,-118.3109584) 
