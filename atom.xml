@@ -4,7 +4,7 @@
   <title><![CDATA[Love Story]]></title>
   <link href="http://lovexinxin.github.io/atom.xml" rel="self"/>
   <link href="http://lovexinxin.github.io/"/>
-  <updated>2014-08-08T16:56:36-04:00</updated>
+  <updated>2014-08-08T17:15:34-04:00</updated>
   <id>http://lovexinxin.github.io/</id>
   <author>
     <name><![CDATA[Doudou & Xinxin]]></name>
@@ -149,7 +149,19 @@
     <link href="http://lovexinxin.github.io/blog/2014/05/29/unofficial-honeymoon/"/>
     <updated>2014-05-29T01:00:40-04:00</updated>
     <id>http://lovexinxin.github.io/blog/2014/05/29/unofficial-honeymoon</id>
-    <content type="html"><![CDATA[<h1>8.18</h1>
+    <content type="html"><![CDATA[<script language="Javascript" type="text/javascript">
+    var map;
+    $(document).ready(function(){
+      map = new GMaps({
+        div: '#gmap',
+        lat: -12.043333,
+        lng: -77.028333
+      });
+    });
+</script>
+
+
+<h1>8.18</h1>
 
 <p>回宾馆睡觉觉</p>
 
