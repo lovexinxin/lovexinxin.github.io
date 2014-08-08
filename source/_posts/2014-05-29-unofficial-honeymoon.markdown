@@ -154,9 +154,9 @@ Fly back to Boston~ Honeymoon is over, T^T
 # Food:
 ## Los Angeles
 ### Bottega Louie（甜品）:
-700 S Grand Ave, Los Angeles, CA 90017
-  - [Apple Map](http://maps.apple.com/?q=33.9748936,-118.2951354)
-  - [Google Map](comgooglemaps://?q=33.9748936,-118.2951354&zoom=14&views=traffic)  
+700 S Grand Ave, Los Angeles, CA 90017   
+- [Apple Map](http://maps.apple.com/?q=33.9748936,-118.2951354)  
+- [Google Map](comgooglemaps://?q=33.9748936,-118.2951354&zoom=14&views=traffic)  
 
 ### Silk Road Garden(新疆菜):
 18920 Gale Ave, Rowland Heights, CA 91748
@@ -252,12 +252,12 @@ Newark Tea Station
   - [Google Map](comgooglemaps://?q=32.7439003,-117.1606972&zoom=14&views=traffic)  
 
 ### Phil's BBQ(中午去人少): 
-3750 Sports Arena Blvd, San Diego, CA 92110
-  - [Apple Map](http://maps.apple.com/?q=32.7550442,-117.2158329)
-  - [Google Map](comgooglemaps://?q=32.7550442,-117.2158329&zoom=14&views=traffic)  
+3750 Sports Arena Blvd, San Diego, CA 92110   
+- [Apple Map](http://maps.apple.com/?q=32.7550442,-117.2158329)
+- [Google Map](comgooglemaps://?q=32.7550442,-117.2158329&zoom=14&views=traffic)  
 
 ### Crab Hut (螃蟹！):
-4646 Convoy St, Ste 106A, San Diego, CA 92111
+4646 Convoy St, Ste 106A, San Diego, CA 92111   
   - [Apple Map](http://maps.apple.com/?q=32.8249211,-117.1556959)
   - [Google Map](comgooglemaps://?q=32.8249211,-117.1556959&zoom=14&views=traffic)  
 
@@ -265,7 +265,7 @@ Newark Tea Station
 
 ## Route 1:
 ### sister kitchen，thai food
-245 W Grand Ave, Grover Beach, CA 93433
+245 W Grand Ave, Grover Beach, CA 93433   
   - [Apple Map](http://maps.apple.com/?q=35.0799242,-119.3520163)
   - [Google Map](comgooglemaps://?q=35.0799242,-119.3520163&zoom=14&views=traffic)  
 
@@ -281,6 +281,8 @@ Newark Tea Station
 
 ### Dametra Café
 SE corner of Ocean & Lincoln, Carmel by the Sea, CA 93921
+
+### Crow's Nest
 
 ## Others:
 ### HIT The Spot (boiling point in LA 较远)
