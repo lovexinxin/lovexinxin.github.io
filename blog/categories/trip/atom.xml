@@ -4,7 +4,7 @@
   <title><![CDATA[Category: trip | Love Story]]></title>
   <link href="http://lovexinxin.github.io/blog/categories/trip/atom.xml" rel="self"/>
   <link href="http://lovexinxin.github.io/"/>
-  <updated>2014-08-08T17:15:34-04:00</updated>
+  <updated>2014-08-08T17:37:40-04:00</updated>
   <id>http://lovexinxin.github.io/</id>
   <author>
     <name><![CDATA[Doudou & Xinxin]]></name>
@@ -28,6 +28,9 @@
       });
     });
 </script>
+
+
+<div class="gmap" id="gmap" style="position: relative; overflow: hidden; height: 240px"></div>
 
 
 <h1>8.18</h1>
