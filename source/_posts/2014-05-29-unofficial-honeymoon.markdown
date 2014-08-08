@@ -10,77 +10,144 @@ categories: love trip
 
 # 8.19
 - Staples Center: 1111 S Figueroa St, Los Angeles, CA 90015  
-<a href="http://maps.apple.com/?q=51.507269,-0.127695">http://maps.apple.com/?q=51.507269,-0.127695</a>
   - [Apple Map](http://maps.apple.com/?q=34.043018,-118.267254)  
   - [Google Map](comgooglemaps://?q=34.043018,-118.267254&zoom=14&views=traffic)
 
-- Walk of Fame (7018 Hollywood Blvd, Los Angeles, CA 90028: 34.0937508,-118.3264781)
-- 比弗利山庄，日落大道（Sunset Boulevard, Los Angeles, CA: 34.0808211,-118.412875）
-- 晚上griffith observatory看LA夜景(2800 E Observatory Rd, Los Angeles, CA 90027: 34.0952934,-118.3109584) 
-- The Getty Center(1200 Getty Center Dr, Los Angeles, CA 90049: 34.078036,-118.474095)
-- Santa Monica Pier!!!(Santa Monica Pier, Santa Monica, CA 90401: 34.0093515,-118.4974682)
-- Abbot Kinney Blvd(Abbot Kinney Blvd, Los Angeles, CA 90291: 33.9906964,-118.451706)
+- Walk of Fame: 7018 Hollywood Blvd, Los Angeles, CA 90028 
+  - [Apple Map](http://maps.apple.com/?q=34.0937508,-118.3264781)
+  - [Google Map](comgooglemaps://?q=34.0937508,-118.3264781&zoom=14&views=traffic)  
+- Beverly Hill && Sunset Bld: Sunset Boulevard, Los Angeles, CA
+  - [Apple Map](http://maps.apple.com/?q=34.0808211,-118.412875)
+  - [Google Map](comgooglemaps://?q=34.0808211,-118.412875&zoom=14&views=traffic)
+- Griffith observatory - LA Night View: 2800 E Observatory Rd, Los Angeles, CA 90027
+  - [Apple Map](http://maps.apple.com/?q=34.0952934,-118.3109584)
+  - [Google Map](comgooglemaps://?q=34.0952934,-118.3109584&zoom=14&views=traffic)
+- The Getty Center: 1200 Getty Center Dr, Los Angeles, CA 90049
+  - [Apple Map](http://maps.apple.com/?q=34.078036,-118.474095)
+  - [Google Map](comgooglemaps://?q=34.078036,-118.474095&zoom=14&views=traffic)
+- Santa Monica Pier!!!: Santa Monica Pier, Santa Monica, CA 90401
+  - [Apple Map](http://maps.apple.com/?q=34.0093515,-118.4974682)
+  - [Google Map](comgooglemaps://?q=34.0093515,-118.4974682&zoom=14&views=traffic)
+- Abbot Kinney Blvd: Abbot Kinney Blvd, Los Angeles, CA 90291
+  - [Apple Map](http://maps.apple.com/?q=33.9906964,-118.451706)
+  - [Google Map](comgooglemaps://?q=33.9906964,-118.451706&zoom=14&views=traffic)
 
 # 8.20
-Universal Studio (100 Universal City Plaza, Universal City, CA 91608: 34.138117,-118.353378)
+- Universal Studio: 100 Universal City Plaza, Universal City, CA 91608
+  - [Apple Map](http://maps.apple.com/?q=34.138117,-118.353378)
+  - [Google Map](comgooglemaps://?q=34.138117,-118.353378&zoom=14&views=traffic)
 
 # 8.21 ??
 OK, 小心心今天负责坐车啦～The Getty Villa(豪宅，提前预约), 启程去San Francisco～去Santa Barbara, 中间在丹麦小镇Solvang会停留吃吃饭稍微看一下过夜～Santa Cruz
-
 # 8.22
-- SF's city hall (1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102: 37.779318,-122.41914)
-- union square (323 Geary St #203, San Francisco, CA 94102: 37.7879331,-122.4074981)
-- 渔人码头（有游轮去小岛，看时间而定）(Fisherman's Wharf, San Francisco, CA: 37.8081103,-122.416631)
-- Fort Mason(金门大桥和小岛)(2 Marina Blvd, San Francisco, CA 94123: 37.8051778,-122.4360075) 
-- Golden Gate Bridge (Golden Gate Bridge, San Francisco, CA 94129: 37.8022678,-122.4663219)
-- Golden Gate Park && Japanese Tea Garden (Golden Gate Park, San Francisco, CA: 37.7668385,-122.5007087)
-- Alcatraz Island（恶魔岛, Alcatraz Island, San Francisco, CA 94133: 37.826978,-122.422956）Optional
+- SF's city hall: 1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102
+  - [Apple Map](http://maps.apple.com/?q=37.779318,-122.41914)
+  - [Google Map](comgooglemaps://?q=37.779318,-122.41914&zoom=14&views=traffic)
+- Union Square (323 Geary St #203, San Francisco, CA 94102
+  - [Apple Map](http://maps.apple.com/?q=37.7879331,-122.4074981)
+  - [Google Map](comgooglemaps://?q=37.7879331,-122.4074981&zoom=14&views=traffic)
+- 渔人码头（有游轮去小岛，看时间而定): Fisherman's Wharf, San Francisco, CA
+  - [Apple Map](http://maps.apple.com/?q=37.8081103,-122.416631)
+  - [Google Map](comgooglemaps://?q=37.8081103,-122.416631&zoom=14&views=traffic)
+- Fort Mason(金门大桥和小岛): 2 Marina Blvd, San Francisco, CA 94123
+  - [Apple Map](http://maps.apple.com/?q=37.8051778,-122.4360075) 
+  - [Google Map](comgooglemaps://?q=37.8051778,-122.4360075&zoom=14&views=traffic)
+- Golden Gate Bridge: Golden Gate Bridge, San Francisco, CA 94129
+  - [Apple Map](http://maps.apple.com/?q=37.8022678,-122.4663219)
+  - [Google Map](comgooglemaps://?q=37.8022678,-122.4663219&zoom=14&views=traffic)
+- Golden Gate Park && Japanese Tea Garden: Golden Gate Park, San Francisco, CA
+  - [Apple Map](http://maps.apple.com/?q=37.7668385,-122.5007087)
+  - [Google Map](comgooglemaps://?q=37.7668385,-122.5007087&zoom=14&views=traffic)
+- Alcatraz Island（恶魔岛Optional): Alcatraz Island, San Francisco, CA 94133
+  - [Apple Map](http://maps.apple.com/?q=37.826978,-122.422956)
+  - [Google Map](comgooglemaps://?q=37.826978,-122.422956&zoom=14&views=traffic)  
 
 # 8.23
-计划坐Cable Car当当车玩～
-- 九曲花街(Lombard St, San Francisco, CA 94133: 37.802139,-122.41874)
-- nob hills富人区&&Chinatown(Grace Cathedral - 1100 California St, San Francisco, CA 94108: 37.791946,-122.412531)
-- Painted Ladies (Steiner St, San Francisco, CA 94117: 37.7826192,-122.4126597)  - 玛丽教堂（1111 Gough St., San Francisco, CA 94109: 37.784349,-122.424508) 
-- The 16th Avenue Tiled Steps Project(1700 16th Ave San Francisco, CA 94122: 37.756452,-122.471743)
-- UC-Berkely (Berkeley, CA: 37.871899,-122.25854) 离的比较远
+**Take Cable Car!!**
+- 九曲花街: Lombard St, San Francisco, CA 94133
+  - [Apple Map](http://maps.apple.com/?q=37.802139,-122.41874)
+  - [Google Map](comgooglemaps://?q=37.802139,-122.41874&zoom=14&views=traffic)
+- Nob Hills富人区 && Chinatown: Grace Cathedral - 1100 California St, San Francisco, CA 94108
+  - [Apple Map](http://maps.apple.com/?q=37.791946,-122.412531)
+  - [Google Map](comgooglemaps://?q=37.791946,-122.412531&zoom=14&views=traffic)
+- Painted Ladies: Steiner St, San Francisco, CA 94117
+  - [Apple Map](http://maps.apple.com/?q=37.7826192,-122.4126597) 
+  - [Google Map](comgooglemaps://?q=37.7826192,-122.4126597&zoom=14&views=traffic) 
+- 玛丽教堂: 1111 Gough St., San Francisco, CA 94109
+  - [Apple Map](http://maps.apple.com/?q=37.784349,-122.424508) 
+  - [Google Map](comgooglemaps://?q=37.784349,-122.424508&zoom=14&views=traffic)
+- The 16th Avenue Tiled Steps Project: 1700 16th Ave San Francisco, CA 94122
+  - [Apple Map](http://maps.apple.com/?q=37.756452,-122.471743)
+  - [Google Map](comgooglemaps://?q=37.756452,-122.471743&zoom=14&views=traffic)
+- UC-Berkely(比较远, optional): Berkeley, CA
+  - [Apple Map](http://maps.apple.com/?q=37.871899,-122.25854)
+  - [Google Map](comgooglemaps://?q=37.871899,-122.25854&zoom=14&views=traffic)
 
 # 8.24
-- Half Moon Bay State Beach(95 Kelly Ave, Half Moon Bay, CA 94019: 37.4518312,-122.4476906)
-- Stanford University (450 Serra Mall, Stanford, CA 94305: 37.4469929,-122.2629452)
-- Apple Incorporated (1 Infinite Loop, Cupertino, CA 95014: 37.3313195,-122.0288759)
-- Google (1600 Amphitheatre Pkwy, Mountain View, CA 94043: 37.4122517,-122.0757394) 
-- Facebook (1601 Willow Rd, Menlo Park, CA 94025: 37.475327,-122.1483896)
+- Half Moon Bay State Beach: 95 Kelly Ave, Half Moon Bay, CA 94019
+  - [Apple Map](http://maps.apple.com/?q=37.4518312,-122.4476906)
+  - [Google Map](comgooglemaps://?q=37.4518312,-122.4476906&zoom=14&views=traffic)
+- Stanford University: 450 Serra Mall, Stanford, CA 94305
+  - [Apple Map](http://maps.apple.com/?q=37.4469929,-122.2629452)
+  - [Google Map](comgooglemaps://?q=37.4469929,-122.2629452&zoom=14&views=traffic)
+- Apple Incorporated: 1 Infinite Loop, Cupertino, CA 95014
+  - [Apple Map](http://maps.apple.com/?q=37.3313195,-122.0288759)
+  - [Google Map](comgooglemaps://?q=37.3313195,-122.0288759&zoom=14&views=traffic)
+- Google: 1600 Amphitheatre Pkwy, Mountain View, CA 94043
+  - [Apple Map](http://maps.apple.com/?q=37.4122517,-122.0757394) 
+  - [Google Map](comgooglemaps://?q=37.4122517,-122.0757394&zoom=14&views=traffic)
+- Facebook: 1601 Willow Rd, Menlo Park, CA 94025
+  - [Apple Map](http://maps.apple.com/?q=37.475327,-122.1483896)
+  - [Google Map](comgooglemaps://?q=37.475327,-122.1483896&zoom=14&views=traffic)
 
 # 8.25
 哈哈，真正的一号公路，17 miles drive monterey（carmel by the sea）这里停留吃午饭，big sur，Hearst Castle，Malibu Beach and so on。（希望老天作美，第一次往三番开如果天气好，也走这条线以防万一，不留遗憾），到达Santa Barbara估计傍晚，在这里过夜
 
 # 8.26
-- University of California, Santa Barbara (CA 93106: 34.413963,-119.848947)
-在SB看一看，去学校兜一圈，直接开去San Diego, 中间在Santa Monica Beach晒晒太阳吧。
-- La Jolla (在去San Diego路上La Jolla, San Diego, CA: 33.5960313,-117.7254473)
-- UCSD (9500 Gilman Dr, La Jolla, CA 92093: 32.8764333,-117.2369849)
+- University of California, Santa Barbara: CA 93106
+  - [Apple Map](http://maps.apple.com/?q=34.413963,-119.848947)
+  - [Google Map](comgooglemaps://?q=34.413963,-119.848947&zoom=14&views=traffic)
+- La Jolla (在去San Diego路上): La Jolla, San Diego, CA
+  - [Apple Map](http://maps.apple.com/?q=33.5960313,-117.7254473)
+  - [Google Map](comgooglemaps://?q=33.5960313,-117.7254473&zoom=14&views=traffic)
+- UCSD: 9500 Gilman Dr, La Jolla, CA 92093
+  - [Apple Map](http://maps.apple.com/?q=32.8764333,-117.2369849)
+  - [Google Map](comgooglemaps://?q=32.8764333,-117.2369849&zoom=14&views=traffic)
 
 # 8.27
 - 住 Marriott Mission Valley～
-- Sea World (SeaWorld San Diego, 500 Sea World Dr, San Diego, CA 92109: 32.76479,-117.226608)
-- USS Midway Museum (910 N Harbor Dr, San Diego, CA 92101: 32.71374,-117.175126)
+- Sea World: SeaWorld San Diego, 500 Sea World Dr, San Diego, CA 92109
+  - [Apple Map](http://maps.apple.com/?q=32.76479,-117.226608)
+  - [Google Map](comgooglemaps://?q=32.76479,-117.226608&zoom=14&views=traffic)  
+- USS Midway Museum: 910 N Harbor Dr, San Diego, CA 92101
+  - [Apple Map](http://maps.apple.com/?q=32.71374,-117.175126)
+  - [Google Map](comgooglemaps://?q=32.71374,-117.175126&zoom=14&views=traffic)
 
 # 8.28
-- Cabrillo National Monument (1800 Cabrillo Memorial Dr, San Diego, CA 92106: 32.6950246,-117.222252) (Sunset!!)
-- Sunset Cliffs Natural Park（sunset!!)(Sunset Cliffs, San Diego, CA 92107: 32.7033308,-117.228861)
-- Lego Land (1 Legoland Dr, Carlsbad, CA 92008: 33.128843,-117.310172)
+- Cabrillo National Monument(Sunset!!): 1800 Cabrillo Memorial Dr, San Diego, CA 92106
+  - [Apple Map](http://maps.apple.com/?q=32.6950246,-117.222252)
+  - [Google Map](comgooglemaps://?q=32.6950246,-117.222252&zoom=14&views=traffic)  
+- Sunset Cliffs Natural Park（sunset!!)(Sunset Cliffs, San Diego, CA 92107
+  - [Apple Map](http://maps.apple.com/?q=32.7033308,-117.228861)
+  - [Google Map](comgooglemaps://?q=32.7033308,-117.228861&zoom=14&views=traffic)  
+- Lego Land(Optional): 1 Legoland Dr, Carlsbad, CA 92008
+  - [Apple Map](http://maps.apple.com/?q=33.128843,-117.310172)
+  - [Google Map](comgooglemaps://?q=33.128843,-117.310172&zoom=14&views=traffic)  
 
 # 8.29
 Coronado island(Hotel Del Coronado)
 - Orange Country
 
 # 8.30
-到LA看UCLA和USC
-- University of Southern California, Los Angeles, CA: 34.022352,-118.285117
-- University of California, Los Angeles, Los Angeles, CA 90095: 34.0687744,-118.452262
+- University of Southern California, Los Angeles, CA
+  - [Apple Map](http://maps.apple.com/?q=34.022352,-118.285117)
+  - [Google Map](comgooglemaps://?q=34.022352,-118.285117&zoom=14&views=traffic)  
+- University of California, Los Angeles, Los Angeles, CA 90095
+  - [Apple Map](http://maps.apple.com/?q=34.0687744,-118.452262)
+  - [Google Map](comgooglemaps://?q=34.0687744,-118.452262&zoom=14&views=traffic)  
 
 # 8.31
-飞回Boston，加州蜜语结束，T^T
+Fly back to Boston~ Honeymoon is over, T^T
 
 ---
 # Food:
