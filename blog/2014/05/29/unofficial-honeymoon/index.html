@@ -41,7 +41,7 @@ $(document).ready(
       });
       $(".fancybox").fancybox({
         beforeLoad: function() {
-          var el, 
+          var el,
               id = $(this.element).data('title-id');
 
           if (id) {
@@ -66,8 +66,8 @@ $(document).ready(
 );
 </script>
  -->
-	
-	
+
+
 <script language="Javascript" type="text/javascript">
     var map;
     $(document).ready(function(){
@@ -78,31 +78,6 @@ $(document).ready(
       });
     });
 </script>
-
-	<script language="Javascript" type="text/javascript">
-			var clock;
-
-			$(document).ready(function() {
-
-				// Grab the current date
-				var currentDate = new Date();
-
-				// Set some date in the future. In this case, it's always Jan 1
-				// var futureDate  = new Date(currentDate.getFullYear() + 1, 0, 1);
-				var futureDate = new Date("2014/08/18 22:30:00")
-
-				// Calculate the difference in seconds between the future and current date
-				var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
-
-				// Instantiate a coutdown FlipClock
-				clock = $('.clock').FlipClock(diff, {
-					clockFace: 'DailyCounter',
-					countdown: true,
-					showSeconds: false
-				});
-			});
-</script>
-
 </head>
 
 
@@ -387,11 +362,11 @@ $(document).ready(
 
 
 
-  
+
 
 
 <time datetime="2014-05-29T01:00:40-04:00" pubdate data-updated="true">May 29<span>th</span>, 2014</time></div>
-	
+
 
 <div class="tags">
 
@@ -400,20 +375,16 @@ $(document).ready(
 </div>
 
 
-	
+
 </div></article>
 
 	<div class="share">
 	<div class="addthis_toolbox addthis_default_style ">
-	
-	
+
+
 	<a class="addthis_button_tweet"></a>
-	
-	
-<!---	<a class="addthis_counter addthis_pill_style"></a> --->
-	</div>
-  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
-</div>
+
+
 
 
 </div>
@@ -424,13 +395,7 @@ $(document).ready(
 <br>
 Powered by Octopress.
 </footer>
-	<script src="/javascripts/slash.js"></script>
-<script src="/javascripts/jquery.fancybox.pack.js"></script>
-<script type="text/javascript">
-(function($){
-	$('.fancybox').fancybox();
-})(jQuery);
-</script> <!-- Delete or comment this line to disable Fancybox -->
+
 
 
 
