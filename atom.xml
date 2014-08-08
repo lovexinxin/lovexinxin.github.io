@@ -4,7 +4,7 @@
   <title><![CDATA[Love Story]]></title>
   <link href="http://lovexinxin.github.io/atom.xml" rel="self"/>
   <link href="http://lovexinxin.github.io/"/>
-  <updated>2014-08-08T16:32:40-04:00</updated>
+  <updated>2014-08-08T16:38:17-04:00</updated>
   <id>http://lovexinxin.github.io/</id>
   <author>
     <name><![CDATA[Doudou & Xinxin]]></name>
@@ -18,7 +18,32 @@
     <link href="http://lovexinxin.github.io/blog/2014/06/25/count-down/"/>
     <updated>2014-06-25T00:45:05-04:00</updated>
     <id>http://lovexinxin.github.io/blog/2014/06/25/count-down</id>
-    <content type="html"><![CDATA[<h1>Tick tick &hellip;</h1>
+    <content type="html"><![CDATA[<script language="Javascript" type="text/javascript">
+            var clock;
+
+            $(document).ready(function() {
+
+                // Grab the current date
+                var currentDate = new Date();
+
+                // Set some date in the future. In this case, it's always Jan 1
+                // var futureDate  = new Date(currentDate.getFullYear() + 1, 0, 1);
+                var futureDate = new Date("2014/08/18 22:30:00")
+
+                // Calculate the difference in seconds between the future and current date
+                var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
+
+                // Instantiate a coutdown FlipClock
+                clock = $('.clock').FlipClock(diff, {
+                    clockFace: 'DailyCounter',
+                    countdown: true,
+                    showSeconds: false
+                });
+            });
+</script>
+
+
+<h1>Tick tick &hellip;</h1>
 
 <p>希望我们能努力跑赢这个倒计时牌，能够坚持下来，坚持到我们的“Unofficial Honeymoon”&hellip;</p>
 
