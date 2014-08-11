@@ -15,7 +15,7 @@ categories: love trip
       });
     });
 </script>
-<div><div class="gmap" id="gmap" style="position: relative; overflow: hidden; height: 240px"></div></div>
+<div class="gmap" id="gmap" style="position: relative; overflow: hidden; height: 240px"></div>
 
 
 # 8.18
