@@ -10,12 +10,38 @@ categories: love trip
     $(document).ready(function(){
       map = new GMaps({
         div: '#gmap',
-        lat: -12.043333,
-        lng: -77.028333
+        lat: 33.941589,
+        lng: -118.40853
+      });
+      
+      map.addMarker({
+	      	lat: 34.043018,
+	       lng: -118.267254,
+	       title: 'Lima',
+	      click: function(e){
+	          if(console.log)
+	            console.log(e);
+	          alert('Staples Center');
+	        }
+      });
+      
+      GMaps.geolocate({
+        success: function(position){
+          map.setCenter(position.coords.latitude, position.coords.longitude);
+        },
+        error: function(error){
+          alert('Geolocation failed: '+error.message);
+        },
+        not_supported: function(){
+          alert("Your browser does not support geolocation");
+        },
+        always: function(){
+          alert("Done!");
+        }
       });
     });
 </script>
-<div class="gmap" id="gmap" style="position: relative; overflow: hidden; height: 240px"></div>
+<div class="gmap" id="gmap" style="position: relative; overflow: hidden; height: 240px; width=98%;"></div>
 
 
 # 8.18
