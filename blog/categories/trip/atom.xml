@@ -4,7 +4,7 @@
   <title><![CDATA[Category: trip | Love Story]]></title>
   <link href="http://lovexinxin.github.io/blog/categories/trip/atom.xml" rel="self"/>
   <link href="http://lovexinxin.github.io/"/>
-  <updated>2014-08-11T13:23:34-04:00</updated>
+  <updated>2014-08-11T13:36:49-04:00</updated>
   <id>http://lovexinxin.github.io/</id>
   <author>
     <name><![CDATA[Doudou & Xinxin]]></name>
@@ -28,14 +28,39 @@
       });
       
       map.addMarker({
-            lat: 34.043018,
-           lng: -118.267254,
-           title: 'Lima',
-          click: function(e){
-              if(console.log)
-                console.log(e);
-              alert('Staples Center');
-            }
+          lat: 34.043018,
+          lng: -118.267254,
+          title: 'Staples Center',
+          infoWindow: {
+          content: '<a href="http://maps.apple.com/?q=34.043018,-118.267254">Apple Map - Staples</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 34.0937508,
+          lng: -118.3264781,
+          title: 'Walk of Fame',
+          infoWindow: {
+          content: '<p>Walk of Fame</p>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 34.0808211,
+          lng: -118.412875,
+          title: 'Beverly Hill && Sunset Bld',
+          infoWindow: {
+          content: '<p>Beverly Hill && Sunset Bld</p>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 34.0952934,
+          lng: -118.3109584,
+          title: 'Griffith observatory',
+          infoWindow: {
+          content: '<p>Griffith observatory</p>'
+        }
       });
       
       GMaps.geolocate({
@@ -49,8 +74,8 @@
           alert("Your browser does not support geolocation");
         },
         always: function(){
-          alert("Done!");
-        }
+<!--          alert("Done!");
+-->        }
       });
     });
 </script>
