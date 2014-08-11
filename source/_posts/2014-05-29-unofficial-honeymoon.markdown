@@ -5,7 +5,17 @@ date: 2014-05-29 01:00:40 -0400
 comments: true
 categories: love trip
 ---
-
+<script language="Javascript" type="text/javascript">
+    var map;
+    $(document).ready(function(){
+      map = new GMaps({
+        div: '#gmap',
+        lat: -12.043333,
+        lng: -77.028333
+      });
+    });
+</script>
+<div class="gmap" id="gmap" style="position: relative; overflow: hidden; height: 240px"></div>
 
 
 # 8.18
