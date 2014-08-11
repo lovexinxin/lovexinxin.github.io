@@ -61,8 +61,7 @@ categories: love trip
           alert("Your browser does not support geolocation");
         },
         always: function(){
-<!--          alert("Done!");
--->        }
+        }
       });
     });
 </script>
