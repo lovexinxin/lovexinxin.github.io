@@ -4,7 +4,7 @@
   <title><![CDATA[Love Story]]></title>
   <link href="http://lovexinxin.github.io/atom.xml" rel="self"/>
   <link href="http://lovexinxin.github.io/"/>
-  <updated>2014-08-11T13:36:49-04:00</updated>
+  <updated>2014-08-11T13:38:27-04:00</updated>
   <id>http://lovexinxin.github.io/</id>
   <author>
     <name><![CDATA[Doudou & Xinxin]]></name>
@@ -205,8 +205,7 @@
           alert("Your browser does not support geolocation");
         },
         always: function(){
-<!--          alert("Done!");
--->        }
+        }
       });
     });
 </script>
