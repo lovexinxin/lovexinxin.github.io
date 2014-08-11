@@ -4,7 +4,7 @@
   <title><![CDATA[Love Story]]></title>
   <link href="http://lovexinxin.github.io/atom.xml" rel="self"/>
   <link href="http://lovexinxin.github.io/"/>
-  <updated>2014-08-11T11:52:49-04:00</updated>
+  <updated>2014-08-11T11:55:31-04:00</updated>
   <id>http://lovexinxin.github.io/</id>
   <author>
     <name><![CDATA[Doudou & Xinxin]]></name>
@@ -161,7 +161,7 @@
 </script>
 
 
-<div><div class="gmap" id="gmap" style="position: relative; overflow: hidden; height: 240px"></div></div>
+<div class="gmap" id="gmap" style="position: relative; overflow: hidden; height: 240px"></div>
 
 
 <h1>8.18</h1>
