@@ -4,7 +4,7 @@
   <title><![CDATA[Love Story]]></title>
   <link href="http://lovexinxin.github.io/atom.xml" rel="self"/>
   <link href="http://lovexinxin.github.io/"/>
-  <updated>2014-08-11T13:38:27-04:00</updated>
+  <updated>2014-08-11T14:23:47-04:00</updated>
   <id>http://lovexinxin.github.io/</id>
   <author>
     <name><![CDATA[Doudou & Xinxin]]></name>
@@ -158,42 +158,6 @@
         lng: -118.40853
       });
       
-      map.addMarker({
-          lat: 34.043018,
-          lng: -118.267254,
-          title: 'Staples Center',
-          infoWindow: {
-          content: '<a href="http://maps.apple.com/?q=34.043018,-118.267254">Apple Map - Staples</a>'
-        }
-      });
-      
-      map.addMarker({
-          lat: 34.0937508,
-          lng: -118.3264781,
-          title: 'Walk of Fame',
-          infoWindow: {
-          content: '<p>Walk of Fame</p>'
-        }
-      });
-      
-      map.addMarker({
-          lat: 34.0808211,
-          lng: -118.412875,
-          title: 'Beverly Hill && Sunset Bld',
-          infoWindow: {
-          content: '<p>Beverly Hill && Sunset Bld</p>'
-        }
-      });
-      
-      map.addMarker({
-          lat: 34.0952934,
-          lng: -118.3109584,
-          title: 'Griffith observatory',
-          infoWindow: {
-          content: '<p>Griffith observatory</p>'
-        }
-      });
-      
       GMaps.geolocate({
         success: function(position){
           map.setCenter(position.coords.latitude, position.coords.longitude);
@@ -207,6 +171,172 @@
         always: function(){
         }
       });
+      
+      map.addMarker({
+          lat: 34.043018,
+          lng: -118.267254,
+          title: 'Staples Center',
+          infoWindow: {
+          content: '<p><b>Staples Center</b></p><br>
+          <a href="http://maps.apple.com/?q=34.043018,-118.267254">Apple Map</a><br>
+          <a href="comgooglemaps://?q=34.043018,-118.267254&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 34.0937508,
+          lng: -118.3264781,
+          title: 'Walk of Fame',
+          infoWindow: {
+          content: '<p><b>Walk of Fame</b></p><br>
+          <a href="http://maps.apple.com/?q=34.0937508,-118.3264781">Apple Map</a><br>
+          <a href="comgooglemaps://?q=34.0937508,-118.3264781&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 34.0808211,
+          lng: -118.412875,
+          title: 'Beverly Hill && Sunset Bld',
+          infoWindow: {
+          content: '<p><b>Beverly Hill && Sunset Bld</b></p><br>
+          <a href="http://maps.apple.com/?q=34.0808211,-118.412875">Apple Map</a><br>
+          <a href="comgooglemaps://?q=34.0808211,-118.412875&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 34.0952934,
+          lng: -118.3109584,
+          title: 'Griffith observatory',
+          infoWindow: {
+          content: '<p><b>Griffith observatory</b></p><br>
+          <a href="http://maps.apple.com/?q=34.0952934,-118.3109584">Apple Map</a><br>
+          <a href="comgooglemaps://?q=34.0952934,-118.3109584&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 34.078036,
+          lng: -118.474095,
+          title: 'The Getty Center',
+          infoWindow: {
+          content: '<p><b>The Getty Center</b></p><br>
+          <a href="http://maps.apple.com/?q=34.078036,-118.474095">Apple Map</a><br>
+          <a href="comgooglemaps://?q=34.078036,-118.474095&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 34.0093515,
+          lng: -118.4974682,
+          title: 'Santa Monica Pier',
+          infoWindow: {
+          content: '<p><b>Santa Monica Pier</b></p><br>
+          <a href="http://maps.apple.com/?q=34.0093515,-118.4974682">Apple Map</a><br>
+          <a href="comgooglemaps://?q=34.0093515,-118.4974682&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 33.9906964,
+          lng: -118.451706,
+          title: 'Abbot Kinney Blvd',
+          infoWindow: {
+          content: '<p><b>Abbot Kinney Blvd</b></p><br>
+          <a href="http://maps.apple.com/?q=33.9906964,-118.451706">Apple Map</a><br>
+          <a href="comgooglemaps://?q=33.9906964,-118.451706&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 34.138117,
+          lng: -118.353378,
+          title: 'Universal Studio',
+          infoWindow: {
+          content: '<p><b>Universal Studio</b></p><br>
+          <a href="http://maps.apple.com/?q=34.138117,-118.353378">Apple Map</a><br>
+          <a href="comgooglemaps://?q=34.138117,-118.353378&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 37.779318,
+          lng: -122.41914,
+          title: 'San Francisco City Hall',
+          infoWindow: {
+          content: '<p><b>San Francisco City Hall</b></p><br>
+          <a href="http://maps.apple.com/?q=37.779318,-122.41914">Apple Map</a><br>
+          <a href="comgooglemaps://?q=37.779318,-122.41914&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 37.7879331,
+          lng: -122.4074981,
+          title: 'Union Square',
+          infoWindow: {
+          content: '<p><b>Union Square</b></p><br>
+          <a href="http://maps.apple.com/?q=37.7879331,-122.4074981">Apple Map</a><br>
+          <a href="comgooglemaps://?q=37.7879331,-122.4074981&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 37.8081103,
+          lng: -122.416631,
+          title: 'Fisherman&rsquo;s Wharf',
+          infoWindow: {
+          content: '<p><b>Fisherman&rsquo;s Wharf</b></p><br>
+          <a href="http://maps.apple.com/?q=37.8081103,-122.416631">Apple Map</a><br>
+          <a href="comgooglemaps://?q=37.8081103,-122.416631&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 37.8051778,
+          lng: -122.4360075,
+          title: 'Fort Mason',
+          infoWindow: {
+          content: '<p><b>Fort Mason</b></p><br>
+          <a href="http://maps.apple.com/?q=37.8051778,-122.4360075">Apple Map</a><br>
+          <a href="comgooglemaps://?q=37.8051778,-122.4360075&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 37.8022678,
+          lng: -122.4663219,
+          title: 'Golden Gate Bridge',
+          infoWindow: {
+          content: '<p><b>Golden Gate Bridge</b></p><br>
+          <a href="http://maps.apple.com/?q=37.8022678,-122.4663219">Apple Map</a><br>
+          <a href="comgooglemaps://?q=37.8022678,-122.4663219&amp;zoom=14&amp;views=traffic">Google Map</a><'
+        }
+      });
+      
+      map.addMarker({
+          lat: 37.7668385,
+          lng: -122.5007087,
+          title: 'Golden Gate Park &amp;&amp; Japanese Tea Garden',
+          infoWindow: {
+          content: '<p><b>Golden Gate Park &amp;&amp; Japanese Tea Garden</b></p><br>
+          <a href="http://maps.apple.com/?q=37.7668385,-122.5007087">Apple Map</a><br>
+          <a href="comgooglemaps://?q=37.7668385,-122.5007087&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+          lat: 37.826978,
+          lng: -122.422956,
+          title: 'Alcatraz Island',
+          infoWindow: {
+          content: '<p><b>Alcatraz Island</b></p><br>
+          <a href="http://maps.apple.com/?q=37.826978,-122.422956">Apple Map</a><br>
+          <a href="http://maps.apple.com/?q=37.826978,-122.422956">Apple Map</a>'
+        }
+      });
+
     });
 </script>
 
