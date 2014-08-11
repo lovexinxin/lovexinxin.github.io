@@ -277,7 +277,7 @@ select {
 
 .entry-content .gmap img,
 .entry-content .gmap video {
-	/*max-width:100%;*/
+	max-width:initial;
 	height:auto;
 	-webkit-border-radius:5px;
 	-moz-border-radius:5px;
