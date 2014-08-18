@@ -526,7 +526,7 @@ OK, 小心心今天负责坐车啦～The Getty Villa(豪宅，提前预约), 启
   - [Google Map](comgooglemaps://?q=37.475327,-122.1483896&zoom=14&views=traffic)
 
 # 8.25
-哈哈，真正的一号公路，17 miles drive monterey（carmel by the sea）这里停留吃午饭，big sur，Hearst Castle，Malibu Beach and so on。（希望老天作美，第一次往三番开如果天气好，也走这条线以防万一，不留遗憾），到达Santa Barbara估计傍晚，在这里过夜
+哈哈，真正的一号公路，17 miles drive monterey（carmel by the sea）这里停留吃午饭，big sur，Hearst Castle，Malibu Beach and so on。（希望老天作美，第一次往三番开如果天气好，也走这条线以防万一，不留遗憾），到达Santa Barbara估计傍晚，在这里过夜, Filoli Garden
 
 # 8.26
 - University of California, Santa Barbara: CA 93106
@@ -557,8 +557,11 @@ OK, 小心心今天负责坐车啦～The Getty Villa(豪宅，提前预约), 启
   - [Google Map](comgooglemaps://?q=32.7033308,-117.228861&zoom=14&views=traffic)  
 - Lego Land(Optional): 1 Legoland Dr, Carlsbad, CA 92008
   - [Apple Map](http://maps.apple.com/?q=33.128843,-117.310172)
-  - [Google Map](comgooglemaps://?q=33.128843,-117.310172&zoom=14&views=traffic)  
-
+  - [Google Map](comgooglemaps://?q=33.128843,-117.310172&zoom=14&views=traffic)
+- San Diego Old Town  
+  - [Apple Map](http://maps.apple.com/?q=32.7537206,-117.1953484)
+  - [Google Map](comgooglemaps://?q=32.7537206,-117.1953484&zoom=14&views=traffic)
+  
 # 8.29
 Coronado island(Hotel Del Coronado)
 - Orange Country
@@ -577,6 +580,21 @@ Fly back to Boston~ Honeymoon is over, T^T
 ---
 # Food:
 ## Los Angeles
+### Snow Monster:
+9600 Bolsa Ave, Westminster, CA 92683
+- [Apple Map](http://maps.apple.com/?q=33.5906203,-117.644977)  
+- [Google Map](comgooglemaps://?q=33.5906203,-117.644977&zoom=14&views=traffic)
+
+### Beard Papas (Groupon): 
+333 S Alameda St., Suite 106, Los Angeles, California 90013  
+- [Apple Map](http://maps.apple.com/?q=34.045186,-118.238375)  
+- [Google Map](comgooglemaps://?q=34.045186,-118.238375&zoom=14&views=traffic)
+
+### Five Star Seafood:  
+140 W Valley Blvd, Ste 4D, San Gabriel, CA 91776(远)
+- [Apple Map](http://maps.apple.com/?q=34.0167427,-118.1179028)  
+- [Google Map](comgooglemaps://?q=34.0167427,-118.1179028&zoom=14&views=traffic)
+
 ### Bottega Louie（甜品）:
 700 S Grand Ave, Los Angeles, CA 90017   
 - [Apple Map](http://maps.apple.com/?q=33.9748936,-118.2951354)  
@@ -794,6 +812,20 @@ Newport Beach, CA
 - [Apple Map](http://maps.apple.com/?q=33.6922125,-118.0115553)   
 - [Google Map](comgooglemaps://?q=33.6922125,-118.0115553&zoom=14&views=traffic)
 
+### Laguna Beach
+- [Apple Map](http://maps.apple.com/?q=33.5482831,-117.774753)   
+- [Google Map](comgooglemaps://?q=33.5482831,-117.774753&zoom=14&views=traffic)
+
 ### MONTEREY
 - [Apple Map](http://maps.apple.com/?q=36.5943789,-121.8674989)   
 - [Google Map](comgooglemaps://?q=36.5943789,-121.8674989&zoom=14&views=traffic)
+
+### Balboa Park
+1549 El Prado, San Diego, CA 92101
+- [Apple Map](http://maps.apple.com/?q=32.734148,-117.144553)   
+- [Google Map](comgooglemaps://?q=32.734148,-117.144553&zoom=14&views=traffic)
+
+### Santa Catalina Island
+California 90704
+- [Apple Map](http://maps.apple.com/?q=33.3889848,-118.4549432)   
+- [Google Map](comgooglemaps://?q=33.3889848,-118.4549432&zoom=14&views=traffic)
