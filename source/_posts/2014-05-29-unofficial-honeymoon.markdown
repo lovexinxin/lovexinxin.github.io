@@ -128,7 +128,7 @@ categories: love trip
 	      lng: -122.4663219,
 	      title: 'Golden Gate Bridge',
 	      infoWindow: {
-          content: '<p><b>Golden Gate Bridge</b></p><a href="http://maps.apple.com/?q=37.8022678,-122.4663219">Apple Map</a><br><a href="comgooglemaps://?q=37.8022678,-122.4663219&amp;zoom=14&amp;views=traffic">Google Map</a><'
+          content: '<p><b>Golden Gate Bridge</b></p><a href="http://maps.apple.com/?q=37.8022678,-122.4663219">Apple Map</a><br><a href="comgooglemaps://?q=37.8022678,-122.4663219&amp;zoom=14&amp;views=traffic">Google Map</a>'
         }
       });
       
@@ -150,6 +150,266 @@ categories: love trip
         }
       });
 
+		map.addMarker({
+	      lat: 37.802139,
+	      lng: -122.41874,
+	      title: '九曲花街',
+	      infoWindow: {
+          content: '<p><b>九曲花街</b></p><br><a href="http://maps.apple.com/?q=37.802139,-122.41874">Apple Map</a><br><a href="comgooglemaps://?q=37.802139,-122.41874&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.791946,
+	      lng: -122.412531,
+	      title: 'Nob Hills富人区 &amp;&amp; Chinatown',
+	      infoWindow: {
+          content: '<p><b>Nob Hills富人区 &amp;&amp; Chinatown</b></p><br><a href="http://maps.apple.com/?q=37.791946,-122.412531">Apple Map</a><br><a href="comgooglemaps://?q=37.791946,-122.412531&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.7826192,
+	      lng: -122.4126597,
+	      title: 'Painted Ladies',
+	      infoWindow: {
+          content: '<p><b>Painted Ladies</b></p><br><a href="http://maps.apple.com/?q=37.7826192,-122.4126597">Apple Map</a><br><a href="comgooglemaps://?q=37.7826192,-122.4126597&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.784349,
+	      lng: -122.424508,
+	      title: '玛丽教堂',
+	      infoWindow: {
+          content: '<p><b>玛丽教堂</b></p><br><a href="http://maps.apple.com/?q=37.784349,-122.424508">Apple Map</a><br><a href="comgooglemaps://?q=37.784349,-122.424508&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.756452,
+	      lng: -122.471743,
+	      title: 'The 16th Avenue Tiled Steps Project',
+	      infoWindow: {
+          content: '<p><b>The 16th Avenue Tiled Steps Project</b></p><br><a href="http://maps.apple.com/?q=37.756452,-122.471743">Apple Map</a><br><a href="comgooglemaps://?q=37.756452,-122.471743&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.871899,
+	      lng: -122.25854,
+	      title: 'UC-Berkely',
+	      infoWindow: {
+          content: '<p><b>UC-Berkely</b></p><br><a href="http://maps.apple.com/?q=37.871899,-122.25854">Apple Map</a><br><a href="comgooglemaps://?q=37.871899,-122.25854&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.4518312,
+	      lng: -122.4476906,
+	      title: 'Half Moon Bay State Beach',
+	      infoWindow: {
+          content: '<p><b>Half Moon Bay State Beach</b></p><br><a href="http://maps.apple.com/?q=37.4518312,-122.4476906">Apple Map</a><br><a href="comgooglemaps://?q=37.4518312,-122.4476906&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.4469929,
+	      lng: -122.2629452,
+	      title: 'Stanford University',
+	      infoWindow: {
+          content: '<p><b>Stanford University</b></p><br><a href="http://maps.apple.com/?q=37.4469929,-122.2629452">Apple Map</a><br><a href="comgooglemaps://?q=37.4469929,-122.2629452&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.3313195,
+	      lng: -122.0288759,
+	      title: 'Apple Incorporated',
+	      infoWindow: {
+          content: '<p><b>Apple Incorporated</b></p><br><a href="http://maps.apple.com/?q=37.3313195,-122.0288759">Apple Map</a><br><a href="comgooglemaps://?q=37.3313195,-122.0288759&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.4122517,
+	      lng: -122.0757394,
+	      title: 'Google',
+	      infoWindow: {
+          content: '<p><b>Google</b></p><br><a href="http://maps.apple.com/?q=37.4122517,-122.0757394">Apple Map</a><br><a href="comgooglemaps://?q=37.4122517,-122.0757394&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.475327,
+	      lng: -122.1483896,
+	      title: 'Facebook',
+	      infoWindow: {
+          content: '<p><b>Facebook</b></p><br><a href="http://maps.apple.com/?q=37.475327,-122.1483896">Apple Map</a><br><a href="comgooglemaps://?q=37.475327,-122.1483896&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.413963,
+	      lng: -119.848947,
+	      title: 'University of California, Santa Barbara',
+	      infoWindow: {
+          content: '<p><b>University of California, Santa Barbara</b></p><br><a href="http://maps.apple.com/?q=34.413963,-119.848947">Apple Map</a><br><a href="comgooglemaps://?q=34.413963,-119.848947&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 33.5960313,
+	      lng: -117.7254473,
+	      title: 'La Jolla',
+	      infoWindow: {
+          content: '<p><b>La Jolla</b></p><br><a href="http://maps.apple.com/?q=33.5960313,-117.7254473">Apple Map</a><br><a href="comgooglemaps://?q=33.5960313,-117.7254473&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 32.8764333,
+	      lng: -117.2369849,
+	      title: 'UCSD',
+	      infoWindow: {
+          content: '<p><b>UCSD</b></p><br><a href="http://maps.apple.com/?q=32.8764333,-117.2369849">Apple Map</a><br><a href="comgooglemaps://?q=32.8764333,-117.2369849&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 32.76479,
+	      lng: -117.226608,
+	      title: 'Sea World',
+	      infoWindow: {
+          content: '<p><b>Sea World</b></p><br><a href="http://maps.apple.com/?q=32.76479,-117.226608">Apple Map</a><br><a href="comgooglemaps://?q=32.76479,-117.226608&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 32.71374,
+	      lng: -117.175126,
+	      title: 'USS Midway Museum',
+	      infoWindow: {
+          content: '<p><b>USS Midway Museum</b></p><br><a href="http://maps.apple.com/?q=32.71374,-117.175126">Apple Map</a><br><a href="comgooglemaps://?q=32.71374,-117.175126&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 32.6950246,
+	      lng: -117.222252,
+	      title: 'Cabrillo National Monument',
+	      infoWindow: {
+          content: '<p><b>Cabrillo National Monument</b></p><br><a href="http://maps.apple.com/?q=32.6950246,-117.222252">Apple Map</a><br><a href="comgooglemaps://?q=32.6950246,-117.222252&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 32.7033308,
+	      lng: -117.228861,
+	      title: 'Sunset Cliffs Natural Park',
+	      infoWindow: {
+          content: '<p><b>Sunset Cliffs Natural Park</b></p><br><a href="http://maps.apple.com/?q=32.7033308,-117.228861">Apple Map</a><br><a href="comgooglemaps://?q=32.7033308,-117.228861&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 33.128843,
+	      lng: -117.310172,
+	      title: 'Lego Land',
+	      infoWindow: {
+          content: '<p><b>Lego Land</b></p><br><a href="http://maps.apple.com/?q=33.128843,-117.310172">Apple Map</a><br><a href="comgooglemaps://?q=33.128843,-117.310172&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.022352,
+	      lng: -118.285117,
+	      title: 'University of Southern California',
+	      infoWindow: {
+          content: '<p><b>University of Southern California</b></p><br><a href="http://maps.apple.com/?q=34.022352,-118.285117">Apple Map</a><br><a href="comgooglemaps://?q=34.022352,-118.285117&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.0687744,
+	      lng: -118.452262,
+	      title: 'University of California, Los Angeles',
+	      infoWindow: {
+          content: '<p><b></b></p><br><a href="http://maps.apple.com/?q=34.0687744,-118.452262">Apple Map</a><br><a href="comgooglemaps://?q=34.0687744,-118.452262&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 33.9748936,
+	      lng: -118.2951354,
+	      title: 'Bottega Louie（甜品）',
+	      infoWindow: {
+          content: '<p><b>Bottega Louie（甜品）</b></p><br><a href="http://maps.apple.com/?q=33.9748936,-118.2951354">Apple Map</a><br><a href="comgooglemaps://?q=33.9748936,-118.2951354&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 33.9958997,
+	      lng: -117.8900427,
+	      title: 'Silk Road Garden(新疆菜)',
+	      infoWindow: {
+          content: '<p><b>Silk Road Garden(新疆菜)</b></p><br><a href="http://maps.apple.com/?q=33.9958997,-117.8900427">Apple Map</a><br><a href="comgooglemaps://?q=33.9958997,-117.8900427&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.057963,
+	      lng: -118.419078,
+	      title: '东坡扣肉',
+	      infoWindow: {
+          content: '<p><b>东坡扣肉</b></p><br><a href="http://maps.apple.com/?q=34.057963,-118.419078">Apple Map</a><br><a href="comgooglemaps://?q=34.057963,-118.419078&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.0577265,
+	      lng: -118.2937553,
+	      title: 'Mountain Cafe',
+	      infoWindow: {
+          content: '<p><b>Mountain Cafe</b></p><br><a href="http://maps.apple.com/?q=34.0577265,-118.2937553">Apple Map</a><br><a href="comgooglemaps://?q=34.0577265,-118.2937553&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.049774,
+	      lng: -118.24171,
+	      title: 'Demitasse (热巧，coffee)',
+	      infoWindow: {
+          content: '<p><b>Demitasse (热巧，coffee)</b></p><br><a href="http://maps.apple.com/?q=34.049774,-118.24171">Apple Map</a><br><a href="comgooglemaps://?q=34.049774,-118.24171&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.0528831,
+	      lng: -118.3058503,
+	      title: 'Yu Chun Chic Naeng Myun（韩国&mdash;冷面)',
+	      infoWindow: {
+          content: '<p><b>Yu Chun Chic Naeng Myun（韩国&mdash;冷面)</b></p><br><a href="http://maps.apple.com/?q=34.0528831,-118.3058503">Apple Map</a><br><a href="comgooglemaps://?q=34.0528831,-118.3058503&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.0109895,
+	      lng: -118.495053,
+	      title: 'The Lobster',
+	      infoWindow: {
+          content: '<p><b>The Lobster</b></p><br><a href="http://maps.apple.com/?q=34.0109895,-118.495053">Apple Map</a><br><a href="comgooglemaps://?q=34.0109895,-118.495053&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.8094804,
+	      lng: -122.4103665,
+	      title: 'Crab House',
+	      infoWindow: {
+          content: '<p><b>Crab House</b></p><br><br>'
+        }
+      });
 
 		GMaps.geolocate({
         success: function(position){
@@ -369,8 +629,14 @@ Fly back to Boston~ Honeymoon is over, T^T
 
 ## San Francisco
 ### Crab House
+203 Pier 39 Concourse, San Francisco, CA 94133
+- [Apple Map](http://maps.apple.com/?q=37.8094804,-122.4103665)
+- [Google Map](comgooglemaps://?q=37.8094804,-122.4103665&zoom=14&views=traffic)  
 
 ### Scoma’s Restaurant
+Al Scoma Way, San Francisco, CA 94133
+- [Apple Map](http://maps.apple.com/?q=37.808945,-122.418098)
+- [Google Map](comgooglemaps://?q=37.808945,-122.418098&zoom=14&views=traffic)  
 
 ### Caffe Trieste(coffee, groupon):
 Best Coffee 
@@ -428,6 +694,14 @@ Newark Tea Station
 - [Google Map](comgooglemaps://?q=32.8249211,-117.1556959&zoom=14&views=traffic)  
 
 ### Santa Barbara Shellfish Co.
+230 Stearns Wharf, Santa Barbara, CA 93109
+- [Apple Map](http://maps.apple.com/?q=34.3870833,-119.7541376)   
+- [Google Map](comgooglemaps://?q=34.3870833,-119.7541376&zoom=14&views=traffic)  
+
+### Mister Sushi
+1535 Garnet Avenue - Pacific Beach, San Diego, CA 92109
+- [Apple Map](http://maps.apple.com/?q=32.7993649,-117.2418676)   
+- [Google Map](comgooglemaps://?q=32.7993649,-117.241867&zoom=14&views=traffic)  
 
 ## Route 1:
 ### Sister Kitchen，Thai Food
@@ -436,19 +710,39 @@ Newark Tea Station
 - [Google Map](comgooglemaps://?q=35.0799242,-119.3520163&zoom=14&views=traffic)  
 
 ### Bear Flag Fish Company
+7972 E Pacific Coast Hwy, Newport Beach, CA 92657
+- [Apple Map](http://maps.apple.com/?q=34.2169165,-120.7363313)   
+- [Google Map](comgooglemaps://?q=34.2169165,-120.7363313&zoom=14&views=traffic)  
 
 ### Arch Rock Fish
+608 Anacapa St, Santa Barbara, CA 9310
+- [Apple Map](http://maps.apple.com/?q=34.4193295,-119.6959723)   
+- [Google Map](comgooglemaps://?q=34.4193295,-119.6959723&zoom=14&views=traffic)  
 
 ### Paul's Pancake House
+1531 Mission Dr, Solvang, CA 93463
+- [Apple Map](http://maps.apple.com/?q=34.596274,-120.144088)   
+- [Google Map](comgooglemaps://?q=34.596274,-120.144088&zoom=14&views=traffic)  
 
 ### Lucia Lodge
+62400 California 1, Big Sur, CA 93920
+- [Apple Map](http://maps.apple.com/?q=36.020614,-121.549335)   
+- [Google Map](comgooglemaps://?q=36.020614,-121.549335&zoom=14&views=traffic)  
 
 ### Porta Bella
+ocean avenue, Carmel, CA 93921
+- [Apple Map](http://maps.apple.com/?q=36.554949,-121.924328)   
+- [Google Map](comgooglemaps://?q=36.554949,-121.924328&zoom=14&views=traffic)  
 
 ### Dametra Café
 SE corner of Ocean & Lincoln, Carmel by the Sea, CA 93921
+- [Apple Map](http://maps.apple.com/?q=34.4193295,-119.6959723)   
+- [Google Map](comgooglemaps://?q=34.4193295,-119.6959723&zoom=14&views=traffic)  
 
 ### Crow's Nest
+2218 E Cliff Dr, Santa Cruz, CA 95062
+- [Apple Map](http://maps.apple.com/?q=36.963267,-122.001326)   
+- [Google Map](comgooglemaps://?q=36.963267,-122.001326&zoom=14&views=traffic)  
 
 ## Others:
 ### HIT The Spot (boiling point in LA 较远)
@@ -457,13 +751,49 @@ SE corner of Ocean & Lincoln, Carmel by the Sea, CA 93921
 - [Google Map](comgooglemaps://?q=37.4237587,-121.9191267&zoom=14&views=traffic)  
 
 # Other Places:
-- Pepperdine University (40min from LA) Most Beautiful University
-- Palos Verdes(玻璃教堂): 6118 Palos Verdes Dr S, Rancho Palos Verdes, California 90275 
-- Mono Lake
-- Target Masters(shooting): 122 Minnis Cir Milpitas, CA 95035
-- The Huntington Library, Art Collections, and Botanical Gardens: 1151 Oxford Rd, San Marino, CA
-- Pigeon Point Lighthouse(1h from SF): 210 Pigeon Point Rd., Pescadero, CA
-- Newport Beach (1h from SD)
-- Malibu
-- Huntington Beach 
-- MONTEREY
+### Pepperdine University 
+(40min from LA) Most Beautiful University
+24255 Pacific Coast Hwy, Malibu, CA 90263
+- [Apple Map](http://maps.apple.com/?q=34.0433421,-118.7096078)   
+- [Google Map](comgooglemaps://?q=34.0433421,-118.7096078&zoom=14&views=traffic)  
+
+### Palos Verdes(玻璃教堂): 
+6118 Palos Verdes Dr S, Rancho Palos Verdes, California 90275 
+- [Apple Map](http://maps.apple.com/?q=33.744612,-118.3841544)   
+- [Google Map](comgooglemaps://?q=33.744612,-118.3841544&zoom=14&views=traffic)
+
+### Mono Lake
+- [Apple Map](http://maps.apple.com/?q=38.00798,-119.0290016)   
+- [Google Map](comgooglemaps://?q=38.00798,-119.0290016&zoom=14&views=traffic)
+
+### Target Masters(shooting): 
+122 Minnis Cir Milpitas, CA 95035
+- [Apple Map](http://maps.apple.com/?q=37.4487182,-121.9111877)   
+- [Google Map](comgooglemaps://?q=37.4487182,-121.9111877&zoom=14&views=traffic)
+
+### The Huntington Library, Art Collections, and Botanical Gardens
+1151 Oxford Rd, San Marino, CA
+- [Apple Map](http://maps.apple.com/?q=34.1285895,-118.1143535)   
+- [Google Map](comgooglemaps://?q=34.1285895,-118.1143535&zoom=14&views=traffic)
+
+### Pigeon Point Lighthouse(1h from SF)
+210 Pigeon Point Rd., Pescadero, CA
+- [Apple Map](http://maps.apple.com/?q=37.182219,-122.394304)   
+- [Google Map](comgooglemaps://?q=37.182219,-122.394304&zoom=14&views=traffic)
+
+### Newport Beach (1h from SD)
+Newport Beach, CA
+- [Apple Map](http://maps.apple.com/?q=33.6208157,-117.8705663)   
+- [Google Map](comgooglemaps://?q=33.6208157,-117.8705663&zoom=14&views=traffic)
+
+### Malibu
+- [Apple Map](http://maps.apple.com/?q=34.033745,-118.7542071)   
+- [Google Map](comgooglemaps://?q=34.033745,-118.7542071&zoom=14&views=traffic)
+
+### Huntington Beach 
+- [Apple Map](http://maps.apple.com/?q=33.6922125,-118.0115553)   
+- [Google Map](comgooglemaps://?q=33.6922125,-118.0115553&zoom=14&views=traffic)
+
+### MONTEREY
+- [Apple Map](http://maps.apple.com/?q=36.5943789,-121.8674989)   
+- [Google Map](comgooglemaps://?q=36.5943789,-121.8674989&zoom=14&views=traffic)
