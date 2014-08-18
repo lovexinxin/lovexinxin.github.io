@@ -410,6 +410,348 @@ categories: love trip
           content: '<p><b>Crab House</b></p><br><br>'
         }
       });
+      
+      map.addMarker({
+	      lat: 32.7537206,
+	      lng: -117.1953484,
+	      title: 'San Diego Old Town',
+	      infoWindow: {
+          content: '<p><b>San Diego Old Town</b></p><br><a href="http://maps.apple.com/?q=32.7537206,-117.1953484">Apple Map</a><br><a href="comgooglemaps://?q=32.7537206,-117.1953484&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 33.5906203,
+	      lng: -117.644977,
+	      title: 'Snow Monster',
+	      infoWindow: {
+          content: '<p><b>Snow Monster</b></p><br><a href="http://maps.apple.com/?q=33.5906203,-117.644977">Apple Map</a><br><a href="comgooglemaps://?q=33.5906203,-117.644977&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.045186,
+	      lng: -118.238375,
+	      title: 'Beard Papas (Groupon)',
+	      infoWindow: {
+          content: '<p><b>Beard Papas (Groupon)</b></p><br><a href="http://maps.apple.com/?q=34.045186,-118.238375">Apple Map</a><br><a href="comgooglemaps://?q=34.045186,-118.238375&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.0167427,
+	      lng: -118.1179028,
+	      title: 'Five Star Seafood',
+	      infoWindow: {
+          content: '<p><b>Five Star Seafood</b></p><br><a href="http://maps.apple.com/?q=34.0167427,-118.1179028">Apple Map</a><br><a href="comgooglemaps://?q=34.0167427,-118.1179028&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.808945,
+	      lng: -122.418098,
+	      title: 'Scoma’s Restaurant',
+	      infoWindow: {
+          content: '<p><b>Scoma’s Restaurant</b></p><br><a href="http://maps.apple.com/?q=37.808945,-122.418098">Apple Map</a><br><a href="comgooglemaps://?q=37.808945,-122.418098&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.798631,
+	      lng: -122.40737,
+	      title: 'Caffe Trieste(coffee, groupon)',
+	      infoWindow: {
+          content: '<p><b>Caffe Trieste(coffee, groupon)</b></p><br><a href="http://maps.apple.com/?q=37.798631,-122.40737">Apple Map</a><br><a href="comgooglemaps://?q=37.798631,-122.40737&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.285498,
+	      lng: -121.979778,
+	      title: 'Hawgs Seafood Bar (Groupon, 离硅谷近)',
+	      infoWindow: {
+          content: '<p><b>Hawgs Seafood Bar (Groupon, 离硅谷近)</b></p><br><a href="http://maps.apple.com/?q=37.285498,-121.979778">Apple Map</a><br><a href="comgooglemaps://?q=37.285498,-121.979778&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.2966813,
+	      lng: -121.9193221,
+	      title: 'Ringer Hut',
+	      infoWindow: {
+          content: '<p><b>Ringer Hut</b></p><br><a href="http://maps.apple.com/?q=37.2966813,-121.9193221">Apple Map</a><br><a href="comgooglemaps://?q=37.2966813,-121.9193221&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.512839,
+	      lng: -122.266526,
+	      title: 'Kaya BBQ &amp; Tofu',
+	      infoWindow: {
+          content: '<p><b>Kaya BBQ &amp; Tofu</b></p><br><a href="http://maps.apple.com/?q=37.512839,-122.266526">Apple Map</a><br><a href="comgooglemaps://?q=37.512839,-122.266526&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+
+		map.addMarker({
+	      lat: 37.7830291,
+	      lng: -122.4671381,
+	      title: '川菜',
+	      infoWindow: {
+          content: '<p><b>川菜</b></p><br><a href="http://maps.apple.com/?q=37.7830291,-122.4671381">Apple Map</a><br><a href="comgooglemaps://?q=37.7830291,-122.4671381&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.781091,
+	      lng: -122.411125,
+	      title: '3 Potato 4',
+	      infoWindow: {
+          content: '<p><b>3 Potato 4</b></p><br><a href="http://maps.apple.com/?q=37.781091,-122.411125">Apple Map</a><br><a href="comgooglemaps://?q=37.781091,-122.411125&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.781091,
+	      lng: -122.411125,
+	      title: 'La Boulange(Bakery, Brunch)',
+	      infoWindow: {
+          content: '<p><b>La Boulange(Bakery, Brunch)</b></p><br><a href="http://maps.apple.com/?q=37.781091,-122.411125">Apple Map</a><br><a href="comgooglemaps://?q=37.781091,-122.411125&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 32.7439003,
+	      lng: -117.1606972,
+	      title: 'Hash House A Go Go (Breakfast加州最好)',
+	      infoWindow: {
+          content: '<p><b>Hash House A Go Go (Breakfast加州最好)</b></p><br><a href="http://maps.apple.com/?q=32.7439003,-117.1606972">Apple Map</a><br><a href="comgooglemaps://?q=32.7439003,-117.1606972&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 32.7550442,
+	      lng: -117.2158329,
+	      title: 'Phil&rsquo;s BBQ',
+	      infoWindow: {
+          content: '<p><b>Phil&rsquo;s BBQ</b></p><br><a href="http://maps.apple.com/?q=32.7550442,-117.2158329">Apple Map</a><br><a href="comgooglemaps://?q=32.7550442,-117.2158329&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 32.8249211,
+	      lng: -117.1556959,
+	      title: 'Crab Hut',
+	      infoWindow: {
+          content: '<p><b>Crab Hut</b></p><br><a href="http://maps.apple.com/?q=32.8249211,-117.1556959">Apple Map</a><br><a href="comgooglemaps://?q=32.8249211,-117.1556959&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.3870833,
+	      lng: -119.7541376,
+	      title: 'Santa Barbara Shellfish Co.',
+	      infoWindow: {
+          content: '<p><b>Santa Barbara Shellfish Co.</b></p><br><a href="http://maps.apple.com/?q=34.3870833,-119.7541376">Apple Map</a><br><a href="comgooglemaps://?q=34.3870833,-119.7541376&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 32.7993649,
+	      lng: -117.2418676,
+	      title: 'Mister Sushi',
+	      infoWindow: {
+          content: '<p><b>Mister Sushi</b></p><br><a href="http://maps.apple.com/?q=32.7993649,-117.2418676">Apple Map</a><br><a href="comgooglemaps://?q=32.7993649,-117.241867&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 35.0799242,
+	      lng: -119.3520163,
+	      title: 'Sister Kitchen，Thai Food',
+	      infoWindow: {
+          content: '<p><b>Sister Kitchen，Thai Food</b></p><br><a href="http://maps.apple.com/?q=35.0799242,-119.3520163">Apple Map</a><br><a href="comgooglemaps://?q=35.0799242,-119.3520163&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.2169165,
+	      lng: -120.7363313,
+	      title: 'Bear Flag Fish Company',
+	      infoWindow: {
+          content: '<p><b>Bear Flag Fish Company</b></p><br><a href="http://maps.apple.com/?q=34.2169165,-120.7363313">Apple Map</a><br><a href="comgooglemaps://?q=34.2169165,-120.7363313&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.4193295,
+	      lng: -119.6959723,
+	      title: 'Arch Rock Fish',
+	      infoWindow: {
+          content: '<p><b>Arch Rock Fish</b></p><br><a href="http://maps.apple.com/?q=34.4193295,-119.6959723">Apple Map</a><br><a href="comgooglemaps://?q=34.4193295,-119.6959723&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.596274,
+	      lng: -120.144088,
+	      title: 'Paul&rsquo;s Pancake House',
+	      infoWindow: {
+          content: '<p><b>Paul&rsquo;s Pancake House</b></p><br><a href="http://maps.apple.com/?q=34.596274,-120.144088">Apple Map</a><br><a href="comgooglemaps://?q=34.596274,-120.144088&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 36.020614,
+	      lng: -121.549335,
+	      title: 'Lucia Lodge',
+	      infoWindow: {
+          content: '<p><b>Lucia Lodge</b></p><br><a href="http://maps.apple.com/?q=36.020614,-121.549335">Apple Map</a><br><a href="comgooglemaps://?q=36.020614,-121.549335&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 36.554949,
+	      lng: -121.924328,
+	      title: 'Porta Bella',
+	      infoWindow: {
+          content: '<p><b>Porta Bella</b></p><br><a href="http://maps.apple.com/?q=36.554949,-121.924328">Apple Map</a><br><a href="comgooglemaps://?q=36.554949,-121.924328&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.4193295,
+	      lng: -119.6959723,
+	      title: 'Dametra Café',
+	      infoWindow: {
+          content: '<p><b>Dametra Café</b></p><br><a href="http://maps.apple.com/?q=34.4193295,-119.6959723">Apple Map</a><br><a href="comgooglemaps://?q=34.4193295,-119.6959723&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 36.963267,
+	      lng: -122.001326,
+	      title: 'Crow&rsquo;s Nest',
+	      infoWindow: {
+          content: '<p><b>Crow&rsquo;s Nest</b></p><br><a href="http://maps.apple.com/?q=36.963267,-122.001326">Apple Map</a><br><a href="comgooglemaps://?q=36.963267,-122.001326&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.4237587,
+	      lng: -121.9191267,
+	      title: 'HIT The Spot (boiling point in LA 较远)',
+	      infoWindow: {
+          content: '<p><b>HIT The Spot (boiling point in LA 较远)</b></p><br><a href="http://maps.apple.com/?q=37.4237587,-121.9191267">Apple Map</a><br><a href="comgooglemaps://?q=37.4237587,-121.9191267&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.0433421,
+	      lng: -118.7096078,
+	      title: 'Pepperdine University',
+	      infoWindow: {
+          content: '<p><b>Pepperdine University</b></p><br><a href="http://maps.apple.com/?q=34.0433421,-118.7096078">Apple Map</a><br><a href="comgooglemaps://?q=34.0433421,-118.7096078&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 33.744612,
+	      lng: -118.3841544,
+	      title: 'Palos Verdes(玻璃教堂)',
+	      infoWindow: {
+          content: '<p><b>Palos Verdes(玻璃教堂)</b></p><br><a href="http://maps.apple.com/?q=33.744612,-118.3841544">Apple Map</a><br><a href="comgooglemaps://?q=33.744612,-118.3841544&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 38.00798,
+	      lng: -119.0290016,
+	      title: 'Mono Lake',
+	      infoWindow: {
+          content: '<p><b>Mono Lake</b></p><br><a href="http://maps.apple.com/?q=38.00798,-119.0290016">Apple Map</a><br><a href="comgooglemaps://?q=38.00798,-119.0290016&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+     	map.addMarker({
+	      lat: 34.1285895,
+	      lng: -118.1143535,
+	      title: 'The Huntington Library, Art Collections, and Botanical Gardens',
+	      infoWindow: {
+          content: '<p><b>The Huntington Library, Art Collections, and Botanical Gardens</b></p><br><a href="http://maps.apple.com/?q=34.1285895,-118.1143535">Apple Map</a><br><a href="comgooglemaps://?q=34.1285895,-118.1143535&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 37.182219,
+	      lng: -122.394304,
+	      title: 'Pigeon Point Lighthouse',
+	      infoWindow: {
+          content: '<p><b>Pigeon Point Lighthouse</b></p><br><a href="http://maps.apple.com/?q=37.182219,-122.394304">Apple Map</a><br><a href="comgooglemaps://?q=37.182219,-122.394304&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 33.6208157,
+	      lng: -117.8705663,
+	      title: 'Newport Beach',
+	      infoWindow: {
+          content: '<p><b>Newport Beach</b></p><br><a href="http://maps.apple.com/?q=33.6208157,-117.8705663">Apple Map</a><br><a href="comgooglemaps://?q=33.6208157,-117.8705663&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 34.033745,
+	      lng: -118.7542071,
+	      title: 'Malibu',
+	      infoWindow: {
+          content: '<p><b>Malibu</b></p><br><a href="http://maps.apple.com/?q=34.033745,-118.7542071">Apple Map</a><br><a href="comgooglemaps://?q=34.033745,-118.7542071&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 33.6922125,
+	      lng: -118.0115553,
+	      title: 'Huntington Beach',
+	      infoWindow: {
+          content: '<p><b>Huntington Beach</b></p><br><a href="http://maps.apple.com/?q=33.6922125,-118.0115553">Apple Map</a><br><a href="comgooglemaps://?q=33.6922125,-118.0115553&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 33.5482831,
+	      lng: -117.774753,
+	      title: 'Laguna Beach',
+	      infoWindow: {
+          content: '<p><b>Laguna Beach</b></p><br><a href="http://maps.apple.com/?q=33.5482831,-117.774753">Apple Map</a><br><a href="comgooglemaps://?q=33.5482831,-117.774753&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 36.5943789,
+	      lng: -121.8674989,
+	      title: 'MONTEREY',
+	      infoWindow: {
+          content: '<p><b>MONTEREY</b></p><br><a href="http://maps.apple.com/?q=36.5943789,-121.8674989">Apple Map</a><br><a href="comgooglemaps://?q=36.5943789,-121.8674989&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 32.734148,
+	      lng: -117.144553,
+	      title: 'Balboa Park',
+	      infoWindow: {
+          content: '<p><b>Balboa Park</b></p><br><a href="http://maps.apple.com/?q=32.734148,-117.144553">Apple Map</a><br><a href="comgooglemaps://?q=32.734148,-117.144553&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
+      
+      map.addMarker({
+	      lat: 33.3889848,
+	      lng: -118.4549432,
+	      title: 'Santa Catalina Island',
+	      infoWindow: {
+          content: '<p><b>Santa Catalina Island</b></p><br><a href="http://maps.apple.com/?q=33.3889848,-118.4549432">Apple Map</a><br><a href="comgooglemaps://?q=33.3889848,-118.4549432&amp;zoom=14&amp;views=traffic">Google Map</a>'
+        }
+      });
 
 		GMaps.geolocate({
         success: function(position){
@@ -575,7 +917,7 @@ Coronado island(Hotel Del Coronado)
   - [Google Map](comgooglemaps://?q=34.0687744,-118.452262&zoom=14&views=traffic)  
 
 # 8.31
-Fly back to Boston~ Honeymoon is over, T^T
+Fly back to Boston~ Honeymoon is over...
 
 ---
 # Food:
@@ -647,13 +989,13 @@ Fly back to Boston~ Honeymoon is over, T^T
 
 ## San Francisco
 ### Crab House
-203 Pier 39 Concourse, San Francisco, CA 94133
-- [Apple Map](http://maps.apple.com/?q=37.8094804,-122.4103665)
+203 Pier 39 Concourse, San Francisco, CA 94133    
+- [Apple Map](http://maps.apple.com/?q=37.8094804,-122.4103665)   
 - [Google Map](comgooglemaps://?q=37.8094804,-122.4103665&zoom=14&views=traffic)  
 
 ### Scoma’s Restaurant
-Al Scoma Way, San Francisco, CA 94133
-- [Apple Map](http://maps.apple.com/?q=37.808945,-122.418098)
+Al Scoma Way, San Francisco, CA 94133    
+- [Apple Map](http://maps.apple.com/?q=37.808945,-122.418098)   
 - [Google Map](comgooglemaps://?q=37.808945,-122.418098&zoom=14&views=traffic)  
 
 ### Caffe Trieste(coffee, groupon):
@@ -712,12 +1054,12 @@ Newark Tea Station
 - [Google Map](comgooglemaps://?q=32.8249211,-117.1556959&zoom=14&views=traffic)  
 
 ### Santa Barbara Shellfish Co.
-230 Stearns Wharf, Santa Barbara, CA 93109
+230 Stearns Wharf, Santa Barbara, CA 93109    
 - [Apple Map](http://maps.apple.com/?q=34.3870833,-119.7541376)   
 - [Google Map](comgooglemaps://?q=34.3870833,-119.7541376&zoom=14&views=traffic)  
 
 ### Mister Sushi
-1535 Garnet Avenue - Pacific Beach, San Diego, CA 92109
+1535 Garnet Avenue - Pacific Beach, San Diego, CA 92109    
 - [Apple Map](http://maps.apple.com/?q=32.7993649,-117.2418676)   
 - [Google Map](comgooglemaps://?q=32.7993649,-117.241867&zoom=14&views=traffic)  
 
@@ -728,37 +1070,37 @@ Newark Tea Station
 - [Google Map](comgooglemaps://?q=35.0799242,-119.3520163&zoom=14&views=traffic)  
 
 ### Bear Flag Fish Company
-7972 E Pacific Coast Hwy, Newport Beach, CA 92657
+7972 E Pacific Coast Hwy, Newport Beach, CA 92657   
 - [Apple Map](http://maps.apple.com/?q=34.2169165,-120.7363313)   
 - [Google Map](comgooglemaps://?q=34.2169165,-120.7363313&zoom=14&views=traffic)  
 
 ### Arch Rock Fish
-608 Anacapa St, Santa Barbara, CA 9310
+608 Anacapa St, Santa Barbara, CA 9310    
 - [Apple Map](http://maps.apple.com/?q=34.4193295,-119.6959723)   
 - [Google Map](comgooglemaps://?q=34.4193295,-119.6959723&zoom=14&views=traffic)  
 
 ### Paul's Pancake House
-1531 Mission Dr, Solvang, CA 93463
+1531 Mission Dr, Solvang, CA 93463    
 - [Apple Map](http://maps.apple.com/?q=34.596274,-120.144088)   
 - [Google Map](comgooglemaps://?q=34.596274,-120.144088&zoom=14&views=traffic)  
 
 ### Lucia Lodge
-62400 California 1, Big Sur, CA 93920
+62400 California 1, Big Sur, CA 93920    
 - [Apple Map](http://maps.apple.com/?q=36.020614,-121.549335)   
 - [Google Map](comgooglemaps://?q=36.020614,-121.549335&zoom=14&views=traffic)  
 
 ### Porta Bella
-ocean avenue, Carmel, CA 93921
+ocean avenue, Carmel, CA 93921    
 - [Apple Map](http://maps.apple.com/?q=36.554949,-121.924328)   
 - [Google Map](comgooglemaps://?q=36.554949,-121.924328&zoom=14&views=traffic)  
 
 ### Dametra Café
-SE corner of Ocean & Lincoln, Carmel by the Sea, CA 93921
+SE corner of Ocean & Lincoln, Carmel by the Sea, CA 93921    
 - [Apple Map](http://maps.apple.com/?q=34.4193295,-119.6959723)   
 - [Google Map](comgooglemaps://?q=34.4193295,-119.6959723&zoom=14&views=traffic)  
 
 ### Crow's Nest
-2218 E Cliff Dr, Santa Cruz, CA 95062
+2218 E Cliff Dr, Santa Cruz, CA 95062    
 - [Apple Map](http://maps.apple.com/?q=36.963267,-122.001326)   
 - [Google Map](comgooglemaps://?q=36.963267,-122.001326&zoom=14&views=traffic)  
 
@@ -770,13 +1112,13 @@ SE corner of Ocean & Lincoln, Carmel by the Sea, CA 93921
 
 # Other Places:
 ### Pepperdine University 
-(40min from LA) Most Beautiful University
-24255 Pacific Coast Hwy, Malibu, CA 90263
+(40min from LA) Most Beautiful University    
+24255 Pacific Coast Hwy, Malibu, CA 90263    
 - [Apple Map](http://maps.apple.com/?q=34.0433421,-118.7096078)   
 - [Google Map](comgooglemaps://?q=34.0433421,-118.7096078&zoom=14&views=traffic)  
 
 ### Palos Verdes(玻璃教堂): 
-6118 Palos Verdes Dr S, Rancho Palos Verdes, California 90275 
+6118 Palos Verdes Dr S, Rancho Palos Verdes, California 90275    
 - [Apple Map](http://maps.apple.com/?q=33.744612,-118.3841544)   
 - [Google Map](comgooglemaps://?q=33.744612,-118.3841544&zoom=14&views=traffic)
 
@@ -785,22 +1127,22 @@ SE corner of Ocean & Lincoln, Carmel by the Sea, CA 93921
 - [Google Map](comgooglemaps://?q=38.00798,-119.0290016&zoom=14&views=traffic)
 
 ### Target Masters(shooting): 
-122 Minnis Cir Milpitas, CA 95035
+122 Minnis Cir Milpitas, CA 95035    
 - [Apple Map](http://maps.apple.com/?q=37.4487182,-121.9111877)   
 - [Google Map](comgooglemaps://?q=37.4487182,-121.9111877&zoom=14&views=traffic)
 
 ### The Huntington Library, Art Collections, and Botanical Gardens
-1151 Oxford Rd, San Marino, CA
+1151 Oxford Rd, San Marino, CA    
 - [Apple Map](http://maps.apple.com/?q=34.1285895,-118.1143535)   
 - [Google Map](comgooglemaps://?q=34.1285895,-118.1143535&zoom=14&views=traffic)
 
 ### Pigeon Point Lighthouse(1h from SF)
-210 Pigeon Point Rd., Pescadero, CA
+210 Pigeon Point Rd., Pescadero, CA    
 - [Apple Map](http://maps.apple.com/?q=37.182219,-122.394304)   
 - [Google Map](comgooglemaps://?q=37.182219,-122.394304&zoom=14&views=traffic)
 
 ### Newport Beach (1h from SD)
-Newport Beach, CA
+Newport Beach, CA    
 - [Apple Map](http://maps.apple.com/?q=33.6208157,-117.8705663)   
 - [Google Map](comgooglemaps://?q=33.6208157,-117.8705663&zoom=14&views=traffic)
 
@@ -821,11 +1163,11 @@ Newport Beach, CA
 - [Google Map](comgooglemaps://?q=36.5943789,-121.8674989&zoom=14&views=traffic)
 
 ### Balboa Park
-1549 El Prado, San Diego, CA 92101
+1549 El Prado, San Diego, CA 92101    
 - [Apple Map](http://maps.apple.com/?q=32.734148,-117.144553)   
 - [Google Map](comgooglemaps://?q=32.734148,-117.144553&zoom=14&views=traffic)
 
 ### Santa Catalina Island
-California 90704
+California 90704    
 - [Apple Map](http://maps.apple.com/?q=33.3889848,-118.4549432)   
 - [Google Map](comgooglemaps://?q=33.3889848,-118.4549432&zoom=14&views=traffic)
